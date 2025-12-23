@@ -23,7 +23,9 @@ from typing import Dict, Any, List
 # Add parent directory to path for imports
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../")))
 
-from router_inference.router import ExampleRouter, BaseRouter
+from router_inference.router import BaseRouter
+from router_inference.router.vllm_sr import VLLMSR
+
 
 # Dataset file paths
 DATASET_PATHS = {
@@ -230,7 +232,7 @@ def main():
     print("\n[1] Initializing router...")
 
     ## You should replace ExampleRouter with your own router implementation.
-    router = ExampleRouter(args.router_name)
+    router = VLLMSR("vllm-sr")
 
     print(f"✓ Router initialized: {router.router_name}")
     print(f"  Available models: {', '.join(router.models)}")
