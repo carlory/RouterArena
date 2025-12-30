@@ -41,6 +41,8 @@ universal_names = [
     "open-mistral-nemo",
     # DeepSeek models
     "deepseek-coder",
+    "deepseek-chat",
+    "deepseek-reasoner",
     # Together AI models
     "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
     "meta-llama/Meta-Llama-3-70B-Instruct-Turbo",

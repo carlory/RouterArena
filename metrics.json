@@ -1,3 +1,8 @@
 {
-  "robustness_score": 0.8761904761904762
+  "arena_score": 0.7395448539621641,
+  "accuracy": 0.7439960093363368,
+  "total_cost": 0.09097745999999998,
+  "avg_cost_per_query": 0.00011245668726823236,
+  "avg_cost_per_1000": 0.11245668726823237,
+  "num_queries": 809
 }

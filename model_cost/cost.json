@@ -111,6 +111,14 @@
     "input_token_price_per_million": 0.25,
     "output_token_price_per_million": 1.0
   },
+  "deepseek-chat": {
+    "input_token_price_per_million": 0.28,
+    "output_token_price_per_million": 0.42
+  },
+  "deepseek-reasoner": {
+    "input_token_price_per_million": 0.28,
+    "output_token_price_per_million": 0.42
+  },
   "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo": {
     "input_token_price_per_million": 0.88,
     "output_token_price_per_million": 0.88
