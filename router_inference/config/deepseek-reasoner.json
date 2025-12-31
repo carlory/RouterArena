@@ -1,0 +1,8 @@
+{
+    "pipeline_params": {
+        "router_name": "deepseek-reasoner",
+        "models": [
+            "deepseek-reasoner"
+        ]
+    }
+  }
