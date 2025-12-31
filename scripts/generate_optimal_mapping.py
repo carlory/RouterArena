@@ -10,6 +10,7 @@ This script:
 """
 
 import json
+from time import sleep
 import urllib.request
 import urllib.error
 from collections import defaultdict
@@ -106,6 +107,8 @@ def main():
     
     print("\nClassifying queries...")
     for i, entry in enumerate(dataset):
+        sleep_time = 0.1  # To avoid overwhelming the API
+        sleep(sleep_time)
         global_index = entry.get("global index") or entry.get("global_index")
         prompt = entry.get("prompt_formatted", "")
         

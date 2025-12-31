@@ -1,10 +1,10 @@
 {
   "biology": "claude-3-haiku-20240307",
   "business": "gemini-2.0-flash-001",
-  "chemistry": "gemini-2.0-flash-001",
+  "chemistry": "deepseek-chat",
   "computer science": "gemini-2.0-flash-001",
   "economics": "gemini-2.0-flash-001",
-  "engineering": "gemini-2.0-flash-001",
+  "engineering": "deepseek-chat",
   "health": "gpt-4o-mini",
   "history": "gpt-4o-mini",
   "law": "gemini-2.0-flash-001",
