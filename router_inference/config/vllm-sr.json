@@ -1,6 +1,6 @@
 {
   "pipeline_params": {
     "router_name": "vllm-sr",
-    "models": ["gpt-4o-mini", "claude-3-haiku-20240307", "gemini-2.0-flash-001"]
+    "models": ["gpt-4o-mini", "claude-3-haiku-20240307", "gemini-2.0-flash-001", "deepseek-chat"]
   }
 }
