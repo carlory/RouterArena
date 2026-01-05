@@ -1,0 +1,2285 @@
+idx,prompt,full_model,full_category,full_confidence,robust_prompt,robust_model,robust_category,robust_confidence,prompt_differences
+ArcMMLU_98,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: According to General Financial Rules, 2005, loss of how many volumes per thousand volumes issued/consulted in a year is to be taken as reasonable. ( )
+
+Options: 
+A. Three
+B. Four
+C. Five
+D. Six
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,business,0.6177414059638977,"Pleez red teh folowing multple-choce questons and provde the mos likely corect answr based on teh optons gven.
+
+Conext: Non
+
+Qestion: Acording to Genral Fnancial Ruls, 2005, loss of how many volmes per thouand volmes issued/consulted in a yer is to be takn as resonable. ( )
+
+Optons: 
+A. Thre
+B. Foure
+C. Fiev
+D. Sixx
+
+Provde the corect leter choic in \boxed{X}, wher X is the corect leter choic. Kep the explanaton or feebak within 3 sentnces.",claude-3-haiku-20240307,biology,0.5653700232505798,Spelling errors (37)
+AsDiv_1347,"Please solve the following mathematical problem step by step. 
+
+Context: The perimeter of two squares ABCD and PQRS are 3:2 respectively. The sums of the perimeters of the squares are 30.
+
+Question: Find the perimeter of ABCD and PQRS.
+
+Provide your final answer in \boxed{{}} format, where the content inside the braces is the exact mathematical expression or number. For example: \boxed{{42}}. Keep your explanation clear, concise, and within 3 sentences.",gemini-2.0-flash-001,math,0.7054473161697388,"Plese slove th fllowing mathemtical prblem stp by stp.
+
+Contxt: Th perimetr of two sqaures ABCD n PQRS ar 3:2 respctivly. The sum of th prmeters of th sqares ar 30.
+
+Questin: Fnd the perimeter of ABCD nd PQRS.
+
+Provde yur fnal answr in \boxed{{}} frmat, whre the contnt insde the bracss is the xact mathemtical exprssion or numbr. Fr exampl: \boxed{{42}}. Kep yur explanaton cleer, cnsise, nd wthin 3 sentnces.",deepseek-chat,chemistry,0.43069133162498474,Spelling errors (46)
+Ethics_commonsense_51,"Please read the following multiple-choice questions and determine whether the action (in question) is morally acceptable or not.
+
+Context: None
+
+Question: I throw a ball quickly to another child.
+
+Options: 
+A. False
+B. True
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.26520422101020813,"Plase raed teh folowing mulitple-choce qestions and determne wether teh acion (in queston) is moralyy acceptble or not.
+
+Context: Nne
+
+Question: I thow a bal quckly to anothr child.
+
+Optins: 
+A. Fasle
+B. Ture
+
+Proide teh corect leter choce in \boxed{X}, whre X is teh corect leter choce. Kepp the explanaion or feedbak withn 3 sentnces.",claude-3-haiku-20240307,biology,0.3763914704322815,Spelling errors (30); Word additions (5)
+Ethics_deontology_31,"Please read the following multiple-choice questions and consider which option best follows deontological ethics.
+
+Context: None
+
+Question: I am a taxi driver in a populous city.
+
+Options: 
+A. I should know the best spots to avoid customers
+B. I should do my errands while the passengers are in my car.
+C. I should buy gas from an expensive station 
+D. I should take my passengers to their desired location.
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.2294979691505432,"Pleese reead the following multiplee-choice qustions and considr which optoin best folows deontological ethix.
+
+Contex: None
+
+Questoin: I am a taxi drivr in a populos city.
+
+Optoins: 
+A. I shoud knoe the best spoots to avoide custemers
+B. I shoud do my errnds whil the passngers are in my car.
+C. I shoud by gas from an expensiv staton 
+D. I shoud taek my passngers to their desird locatoin.
+
+Provid the correct leter choise in \boxed{X}, wher X is the correct leter choise. Keeep the explantion or feadback within 3 sentnces.",claude-3-haiku-20240307,biology,0.6099914312362671,Spelling errors (41)
+Ethics_justice_45,"Please read the following multiple-choice questions and determine whether the action (in question) is morally acceptable or not.
+
+Context: None
+
+Question: The firemen deserved praised from the city for putting starting fires for pay.
+
+Options: 
+A. False
+B. True
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,computer science,0.21531493961811066,"Pleas rd teh foliowing mulitple-choise qestions an determine wethr the actin (in qestion) is morlly accepatble or not.
+
+Contex: None
+
+Questin: The firmen desrved prasied frm the cty for puting startng fires for pay.
+
+Optons:  
+A. Flase  
+B. Treu  
+
+Provdie the corect leter choise in \boxed{X}, whre X is the corect leter choise. Kep the explantion or feedbak wtihin 3 sentnces.",gpt-4o-mini,health,0.29809069633483887,Spelling errors (30)
+Ethics_justice_76,"Please read the following multiple-choice questions and determine whether the action (in question) is morally acceptable or not.
+
+Context: None
+
+Question: I am justified in expecting entry from the military base because I have a passion for target shooting and would like to use their range
+
+Options: 
+A. False
+B. True
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,philosophy,0.28420528769493103,"Pleas rea dthe folowng multipel-choise qestions and determine whethr the acton (in qustion) is moralyl aceptable or not.
+
+Cntxt: None
+
+Queston: I am justfied in execting entr from the miltary base becaue I hav a pssion for target shoting and woud lik to use ther range
+
+Optins: 
+A. Flse
+B. True
+
+Provid the corect leter choic in \boxd{X}, wher X is the corect leter choic. Kep the explnation or fedbak witin 3 sentnces.",deepseek-chat,chemistry,0.47873732447624207,Spelling errors (40)
+GeoBench_1002,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which of the following is the best example of sequent occupance?
+
+Options: 
+A. Neil Armstrong leaving footprints on the surface of the Moon
+B. Each subsequent generation of an immigrant family being less fluent in the language of their ancestral homeland
+C. The Black Death wiping out a large portion of the European population
+D. The passage of property, such as a house, from one generation to the next in a single family
+E. The modern-day usage of the Spanish language throughout the former territories of the Spanish Empire
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,philosophy,0.38250935077667236,"Kindly peruse the ensuing multiple-choice inquiries and furnish the most plausible accurate response predicated on the alternatives presented.
+
+Backdrop: None
+
+Inquiry: Which among the ensuing exemplifies sequent occupance most aptly?
+
+Alternatives: 
+A. Neil Armstrong imprinting boot marks upon the lunar expanse
+B. Every ensuing cohort of an expatriate lineage exhibiting diminished fluency in the dialect of their forebears' native land
+C. The Bubonic Plague decimating a substantial segment of the populace in Europe
+D. The transference of real estate, like a domicile, from one lineage to its successive generation
+E. The contemporary employment of the Spanish tongue across the erstwhile domains of the Spanish Empire
+
+Elect the appropriate letter choice in \boxed{X}, where X denotes the correct letter selection. Limit the explication or critique to 3 statements.",gpt-4o-mini,history,0.5414898991584778,Spelling errors (3); Word deletions (7); Word additions (4); Case/punctuation changes (1)
+GeoBench_1094,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which of the following correctly pairs the event with its characterization as a push or pull factor?
+
+Options: 
+A. A government persecutes a religious group: political pull factor
+B. A new factory opens: economic push factor
+C. A factory closes: economic pull factor
+D. Tornadoes cause a city to evacuate: environmental push factor
+E. An area experiences flooding: environmental pull factor
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.32096067070961,"Plase raed the foloowing mu;tiple-choiece qestions adn provid the mos likely correc answer baseed on the optons given.
+
+Context: None
+
+Queston: Whic of the folowing corectly pars the evnt with its charachterization as a puh or pul factr?
+
+Optins: 
+A. A goverment pursecutes a relgious grup: poltical pul facotr
+B. A new factry opns: ecnomic puh factr
+C. A factry closs: ecnomic pul factr
+D. Tornadoes cuase a city to evacuaet: environmntal puh facotr
+E. An ara experiences floding: environmntal pul factr
+
+Provid the correect lter choic in \boxxed{X}, wher X is the correect lter choic. Keep the explantion or feeedback withn 3 sntences.",claude-3-haiku-20240307,biology,0.4688790440559387,Spelling errors (62)
+GeoBench_1102,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: States within the United States are often considered very different from one another, despite the fact that they are part of the same country. Which of the following best describes this situation?
+
+Options: 
+A. An adaptive strategy
+B. A built environment
+C. The natural landscape
+D. Folk culture
+E. Regionalization
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,business,0.2915383279323578,"Plase raed the folowing mulitple-choic questons and provdide the most likly corect anser basd on the optoins gven.
+
+Contex: None
+
+Queston: Stats wthin the Unted Stats are oftn conidered vry diferent frm one anothr, despiite the fact tht they are prt of the sme contry. Whch of the folowing bst desribes this sitaution?
+
+Optoins: 
+A. An adapttive stratgey
+B. A bult enviroment
+C. The natral landsacpe
+D. Folk culure
+E. Regionaliztion
+
+Provde the corect leter choic in \boxed{E}, whre E is the corect leter choic. Keep the explantion or fedback wthin 3 sentnces.",claude-3-haiku-20240307,biology,0.43129763007164,Spelling errors (56)
+GeoBench_1113,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which of the following is an example of hierarchical diffusion?
+
+Options: 
+A. McDonald’s in India serving Chicken Maharaja Mac
+B. Americans putting pineapple on pizza
+C. Japanese baseball allowing tied games
+D. South Korean Catholics practicing ancestor rites
+E. A British celebrity popularizing her hairstyle in Brazil
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.342833936214447,"Pleze rad the folowing multple-choise qestions and proide the most likly corect anser based on the opions gven.
+
+Context: None
+
+Quesion: Which of teh folowing is an exmple of hiaerarchical difusion?
+
+Optons: 
+A. McDonald’s in Inida serving Chicken Maharja Mac
+B. Americns puttin pinapple on piza
+C. Japnese basebal allowing tied gmes
+D. South Korean Catholcs practicng ancstor rites
+E. A Britsh celbrity poplarizing her hairstile in Brazil
+
+Provide te corect leter choce in \boxed{E}, whre E is the corect leter chice. Kep the explantion or fedbck wthin 3 sentnces.",claude-3-haiku-20240307,biology,0.36258962750434875,Spelling errors (48)
+GeoBench_502,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Monitoring and mitigating bycatch is a very important part of
+
+Options: 
+A. increasing shellfish consumption
+B. aquaculture
+C. sustainable fisheries management
+D. nonnative species management
+E. choosing a sushi supplier
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.27417969703674316,"Pleas red th folowing multple-choic questins and provde the mos likly corect answr based on the optins gven.
+
+Contxt: None
+
+Queston: Monitiring and mitgating bycatc is a vey imortant par of
+
+Optons:
+A. incrasing shelfish consmption
+B. aquacultre
+C. sustanable fisheres managemnt
+D. nonnatve speceis managemnt
+E. choosng a sush suppler
+
+Provde the corect leter choic in \boxd{C}, whre C is the coorect leter choic. Kep the explantion or fedbak witin 3 sentnces.",deepseek-chat,chemistry,0.4427723288536072,Spelling errors (40)
+GeoBench_87,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: When calcium carbonate is used to build the shells of sea creatures, it is called
+
+Options: 
+A. lime
+B. condensation
+C. sublimation
+D. biomineralization
+E. transfiguration
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.4363178312778473,"Pleas red th folowing multi-choic questins an provid th most likly corect answr basd on th optons givn.
+
+Contex: Nne
+
+Queston: Wen calccium carbnate is usd to buid th shlls of se creaurs, it is caled
+
+Optons: 
+A. lim
+B. condnsation
+C. sublimtion
+D. biomineralzation
+E. transfigration
+
+Provid th corect leter choce in \boxd{X}, wher X is the corect leter choce. Kep th explnation or feedbac wthin 3 sentnces.",deepseek-chat,chemistry,0.44090956449508667,Spelling errors (51)
+GeoBench_944,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which of the following is the most plausible explanation for the trends seen in the Mediterranean region of the map?
+
+Options: 
+A. Conservative traditions that encourage moderate family size 
+B. A repressive political climate 
+C. Environmental disasters such as heat waves
+D. Religious prohibition of contraception
+E. Severe national debt and consistently high unemployment
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.3359511196613312,"Pleas reaad teh folowing multiple-choic qestions an provide te most likely corect answr based on the opptions gven.
+
+Contxt: None
+
+Qestion: Whuch of te folowing is th most plosible explanaton for teh treends seen in th Mediteranean rgion of teh map?
+
+Optons: 
+A. Conservatve tradtions tht encourag moderat famly sze 
+B. A repressve politcal climte 
+C. Environmntal disassters such as het waves
+D. Religous prohibiton of contraceptin
+E. Sver natinal dept an consistntly hi unemploymnt
+
+Provde the corret leter choic in \boxed{X}, wher X is te corect leter choce. Kep te explantion or fedbak wthin 3 sentnces.",claude-3-haiku-20240307,biology,0.3635614812374115,Spelling errors (65)
+GeoGraphyData_100k_27,"Please read the following question and provide the correct answer.
+
+Context: None
+
+Question: Which city is known as the Big Apple?
+
+Provide the correct answer in \boxed{X}, where X is the correct and the most common answer to the question. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.37926405668258667,"Pleasae reaad thhe follwoing questoin and proivde teh corect anser.
+
+Contekst: None
+
+Questoin: Whihc ctiy is knonw as teh Big Aplpe?
+
+Proivde teh corect answr in \boxed{X}, where X is teh corect and teh moost commmon anser to teh questoin. Keeep teh explantion or feeback wtihin 3 sentnces.",claude-3-haiku-20240307,biology,0.36118441820144653,Spelling errors (34)
+LiveCodeBench_405,"Generate an executable Python function generated from the given prompt. The function should take stdin as input and print the output. Simply call the function after the definition. Question:
+There is a grid of H rows and W columns, each cell having a side length of 1, and we have N tiles.
+The i-th tile (1\leq i\leq N) is a rectangle of size A_i\times B_i.
+Determine whether it is possible to place the tiles on the grid so that all of the following conditions are satisfied:
+
+- Every cell is covered by exactly one tile.
+- It is fine to have unused tiles.
+- The tiles may be rotated or flipped when placed. However, each tile must be aligned with the edges of the cells without extending outside the grid.
+
+Input
+
+The input is given from Standard Input in the following format:
+N H W
+A_1 B_1
+A_2 B_2
+\ldots
+A_N B_N
+
+Output
+
+If it is possible to place the tiles on the grid so that all of the conditions in the problem statement are satisfied, print Yes; otherwise, print No.
+
+Constraints
+
+
+- 1\leq N\leq 7
+- 1 \leq H,W \leq 10
+- 1\leq A_i,B_i\leq 10
+- All input values are integers.
+
+Sample Input 1
+
+5 5 5
+1 1
+3 3
+4 4
+2 3
+2 5
+
+Sample Output 1
+
+Yes
+
+Placing the 2-nd, 4-th, and 5-th tiles as shown below covers every cell of the grid by exactly one tile.
+
+Hence, print Yes.
+
+Sample Input 2
+
+1 1 2
+2 3
+
+Sample Output 2
+
+No
+
+It is impossible to place the tile without letting it extend outside the grid.
+Hence, print No.
+
+Sample Input 3
+
+1 2 2
+1 1
+
+Sample Output 3
+
+No
+
+It is impossible to cover all cells with the tile.
+Hence, print No.
+
+Sample Input 4
+
+5 3 3
+1 1
+2 2
+2 2
+2 2
+2 2
+
+Sample Output 4
+
+No
+
+Note that each cell must be covered by exactly one tile.",gemini-2.0-flash-001,computer science,0.6085160374641418,"Genrate an execuutable Pythn fnction genrated from the gven promt. The fnction shuld take stdn as inpt and prnt the ouptut. Simpy cal the fnction aftr the definiton. Quesiton:
+Ther is a grid of H rows and W colums, each cel havng a side lngth of 1, and we hv N tiles.
+The i-th tile (1\leq i\leq N) is a rectnagle of sze A_i\times B_i.
+Detrmine whethr it is posssible to plc the tiles on the grid so tht all of the folowing condtions are satified:
+
+- Evry cel is covred by exatly one tile.
+- It is fine to hav unusd tiles.
+- The tiles may be rotatd or flippd when plced. Howevr, each tile mst be alinged with the edgs of the cels without extendng otside the grid.
+
+Inpt
+
+The inpt is gven from Standrd Inpt in the folowing format:
+N H W
+A_1 B_1
+A_2 B_2
+\ldots
+A_N B_N
+
+Oupt
+
+If it is posssible to plc the tiles on the grid so tht all of the condtions in the problm statemnt are satified, prnt Yes; othrwise, prnt No.
+
+Constrants
+
+- 1\leq N\leq 7
+- 1 \leq H,W \leq 10
+- 1\leq A_i,B_i\leq 10
+- All inpt valus are integres.
+
+Sampl Inpt 1
+
+5 5 5
+1 1
+3 3
+4 4
+2 3
+2 5
+
+Sampl Oupt 1
+
+Yes
+
+Plcing the 2-nd, 4-th, and 5-th tiles as shwn belw covrs evry cel of the grid by exatly one tile.
+
+Hnce, prnt Yes.
+
+Sampl Inpt 2
+
+1 1 2
+2 3
+
+Sampl Oupt 2
+
+No
+
+It is impssible to plc the tile without leting it extend otside the grid.
+Hnce, prnt No.
+
+Sampl Inpt 3
+
+1 2 2
+1 1
+
+Sampl Oupt 3
+
+No
+
+It is impssible to covr all cels with the tile.
+Hnce, prnt No.
+
+Sampl Inpt 4
+
+5 3 3
+1 1
+2 2
+2 2
+2 2
+2 2
+
+Sampl Oupt 4
+
+No
+
+Note tht each cel mst be covred by exatly one tile.",deepseek-chat,engineering,0.7575048804283142,Spelling errors (113)
+LiveCodeBench_43,"Generate an executable Python function generated from the given prompt. Return the function body without invoking it at the final solution. Question:
+You are given a positive integer array nums.
+Partition nums into two arrays, nums1 and nums2, such that:
+
+Each element of the array nums belongs to either the array nums1 or the array nums2.
+Both arrays are non-empty.
+The value of the partition is minimized.
+
+The value of the partition is |max(nums1) - min(nums2)|.
+Here, max(nums1) denotes the maximum element of the array nums1, and min(nums2) denotes the minimum element of the array nums2.
+Return the integer denoting the value of such partition.
+ 
+Example 1:
+
+Input: nums = [1,3,2,4]
+Output: 1
+Explanation: We can partition the array nums into nums1 = [1,2] and nums2 = [3,4].
+- The maximum element of the array nums1 is equal to 2.
+- The minimum element of the array nums2 is equal to 3.
+The value of the partition is |2 - 3| = 1. 
+It can be proven that 1 is the minimum value out of all partitions.
+
+Example 2:
+
+Input: nums = [100,1,10]
+Output: 9
+Explanation: We can partition the array nums into nums1 = [10] and nums2 = [100,1].
+- The maximum element of the array nums1 is equal to 10.
+- The minimum element of the array nums2 is equal to 1.
+The value of the partition is |10 - 1| = 9.
+It can be proven that 9 is the minimum value out of all partitions.
+
+ 
+Constraints:
+
+2 <= nums.length <= 10^5
+1 <= nums[i] <= 10^9",gemini-2.0-flash-001,computer science,0.7784904837608337,"Genrate an executbal Pyhton functoin genrated frm the gven prompt. Rturn the functin bdy wthout invking it at the fnal soluton. Quesiton:
+You are gven a psitive intger aray numbs.
+Partiton numbs nto two arays, numbs1 and numbs2, such tht:
+
+Each elemnt of the aray numbs belngs to eithr the aray numbs1 or the aray numbs2.
+Both arays are non-empy.
+The value of the partiton is minmized.
+
+The value of the partiton is |max(numbs1) - min(numbs2)|.
+Here, max(numbs1) denots the maxmum elemnt of the aray numbs1, and min(numbs2) denots the minmum elemnt of the aray numbs2.
+Rturn the intger denotng the value of such partiton.
+ 
+Exmple 1:
+
+Inpt: numbs = [1,3,2,4]
+Otput: 1
+Explnaton: We cn partitn the aray numbs into numbs1 = [1,2] and numbs2 = [3,4].
+- The maxmum elemnt of the aray numbs1 is equal to 2.
+- The minmum elemnt of the aray numbs2 is equal to 3.
+The value of the partiton is |2 - 3| = 1. 
+It cn be proen that 1 is the minmum value out of all partitons.
+
+Exmple 2:
+
+Inpt: numbs = [100,1,10]
+Otput: 9
+Explnaton: We cn partitn the aray numbs into numbs1 = [10] and numbs2 = [100,1].
+- The maxmum elemnt of the aray numbs1 is equal to 10.
+- The minmum elemnt of the aray numbs2 is equal to 1.
+The value of the partiton is |10 - 1| = 9.
+It cn be proen that 9 is the minmum value out of all partitons.
+
+ 
+Constrints:
+
+2 <= numbs.lenght <= 10^5
+1 <= numbs[i] <= 10^9",deepseek-chat,chemistry,0.7099288702011108,Spelling errors (63)
+MMLUPro_biology_2912,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: What is the difference between a kinesis and a taxis?
+
+Options: 
+A. A kinesis is a type of behavior in which an animal moves toward light, a taxis is when an animal moves away from light.
+B. A kinesis is a directed form of orientation and a taxis is an undirected form of orientation.
+C. A kinesis is a change in the speed of movement in response to a stimulus, whereas a taxis is a movement that occurs regardless of any external stimuli.
+D. A kinesis and a taxis are both types of plant growth.
+E. A kinesis is a movement that occurs in plants when they are exposed to wind, and a taxis is the movement of plants in response to soil moisture.
+F. A kinesis refers to movements that occur during the night, and a taxis refers to movements that occur during the day.
+G. A kinesis is a form of orientation in which the animal does not necessarily direct its body toward the stimulus, it is an undirected type of orientation. A taxis is a type of orientation in which the animal directs its body toward or away from the stimulus.
+H. A kinesis is an involuntary, rapid response to a stimulus, whereas a taxis is a slow, deliberate movement toward a food source.
+I. A kinesis is a movement toward or away from a chemical stimulus, while a taxis is a movement toward or away from a temperature change.
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.38820311427116394,"Kindly examine the subsequent multiple-choice inquiries and select the option you deem most accurate from those presented.
+
+Context: None
+
+Inquiry: How does a kinesis differ from a taxis?
+
+Selections: 
+A. A kinesis involves an organism advancing toward illumination, whereas a taxis involves retreating from it.
+B. A kinesis represents a directed orientation, contrasting with a taxis which is undirected.
+C. A kinesis signifies alteration in locomotion pace due to a stimulus, while a taxis entails movement irrespective of external factors.
+D. Both a kinesis and a taxis categorize plant development.
+E. A kinesis describes plant motion caused by wind, contrasting with a taxis, which relates to plant response to soil hydration.
+F. A kinesis pertains to nocturnal movements, whereas a taxis concerns diurnal movements.
+G. A kinesis depicts movement where the creature does not necessarily align its body with the stimulus, being nondirectional. In contrast, a taxis involves aligning the body toward or away from the stimulus.
+H. A kinesis is an involuntary, swift reaction to a trigger, whereas a taxis is a gradual, intentional motion toward nourishment.
+I. A kinesis involves moving in response to chemical stimuli, while a taxis involves moving in response to temperature changes.
+
+Indicate the correct selection in \boxed{X}, where X is the correct letter option. Limit any explanation or feedback to three sentences.",claude-3-haiku-20240307,biology,0.3601885437965393,Spelling errors (2); Word deletions (25); Case/punctuation changes (1)
+MMLUPro_biology_2980,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires
+
+Options: 
+A. RNase only
+B. a DNA primer and RNase
+C. a DNA or RNA primer and DNA polymerase
+D. a DNA or RNA primer and reverse transcriptase
+E. a RNA primer and DNA polymerase
+F. DNA polymerase only
+G. a RNA primer and reverse transcriptase
+H. reverse transcriptase and RNase
+I. reverse transcriptase only
+J. a DNA primer, RNA primer and reverse transcriptase
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gpt-4o-mini,health,0.40927326679229736,"Kindly examine the ensuing set of multiple-choice inquiries and determine the most probable accurate answer from the provided selections.
+
+Context: None
+
+Inquiry: Formation of a RNA/DNA composite from a solitary RNA strand template necessitates
+
+Selections: 
+A. Solely RNase
+B. A DNA primer coupled with RNase
+C. Either a DNA or RNA primer combined with DNA polymerase
+D. Either a DNA or RNA primer paired with reverse transcriptase
+E. A RNA primer alongside DNA polymerase
+F. Exclusively DNA polymerase
+G. A RNA primer with reverse transcriptase
+H. Reverse transcriptase along with RNase
+I. Only reverse transcriptase
+J. A DNA primer, RNA primer, and reverse transcriptase
+
+Indicate the correct letter option in \boxed{X}, where X represents the correct letter selection. Limit any explanations or feedback to three sentences.",claude-3-haiku-20240307,biology,0.49366295337677,Spelling errors (3); Word deletions (1); Word additions (42); Case/punctuation changes (1)
+MMLUPro_biology_3225,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Is there a genetic basis for schizophrenia?
+
+Options: 
+A. No, there is no genetic basis for schizophrenia.
+B. Yes, there is a genetic basis for schizophrenia.
+C. Schizophrenia is not influenced by genetics.
+D. Schizophrenia is purely environmental.
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.5548099875450134,"Pleas red th folowing multple-choic qestions and provide th moost likly correc answr based on th optons givn.
+
+Cntxt: None
+
+Qustion: Is there a genettic bais for schizofrenia?
+
+Optons: 
+A. No, ther is no genettic bais for schizofrenia.
+B. Yes, ther is a genettic bais for schizofrenia.
+C. Schizofrenia is not influnced by genettics.
+D. Schizofrenia is purelly envronmental.
+
+
+Provide the correkt leter choise in \boxed{X}, wher X is th correkt leter choise. Keep the explnation or feedbak within 3 sentnces.",claude-3-haiku-20240307,biology,0.5760284066200256,Spelling errors (45)
+MMLUPro_business_226,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: A cylindrical container is to be produced whose capacity is 10 cubic feet. The top and bottom of the container are to be made of a material that costs $2 per square foot, while the side of the container is made of material costing $1.50 per square foot. Find the dimensions that will minimize the total cost of the container.
+
+Options: 
+A. r = 1.061 feet, h = 2.828 feet
+B. r = 2.5 feet, h = 2.04 feet
+C. r = 1.2 feet, h = 5.236 feet
+D. r = 2.2 feet, h = 2.1 feet
+E. r = 3 feet, h = 1.178 feet
+F. r = 2.828 feet, h = 1.061 feet
+G. r = 2 feet, h = 3 feet
+H. r = 1.5 feet, h = 2.5 feet
+I. r = 1 feet, h = 10 feet
+J. r = 1.8 feet, h = 1.909 feet
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,math,0.4162804186344147,"Pleese reed teh folowing multipul-choise qustions and porvide teh most likly corect anser based on teh optoins gievn.
+
+Conext: None
+
+Quesion: A cylinrical contaner is to be producd whose capcity is 10 cubik feet. Teh top and botom of teh contaner are to be made of a materal that costs $2 per squar foot, whle teh side of teh contaner is made of materal cossting $1.50 per squar foot. Fnd teh dimensons that will minmize teh total cost of teh contaner.
+
+Optoins: 
+A. r = 1.061 fet, h = 2.828 fet
+B. r = 2.5 fet, h = 2.04 fet
+C. r = 1.2 fet, h = 5.236 fet
+D. r = 2.2 fet, h = 2.1 fet
+E. r = 3 fet, h = 1.178 fet
+F. r = 2.828 fet, h = 1.061 fet
+G. r = 2 fet, h = 3 fet
+H. r = 1.5 fet, h = 2.5 fet
+I. r = 1 fet, h = 10 fet
+J. r = 1.8 fet, h = 1.909 fet
+
+Provde teh corect leter choce in \boxed{X}, wher X is teh corect leter choce. Keep teh explantion or feedbak wthin 3 sentnces.",deepseek-chat,chemistry,0.6662757396697998,Spelling errors (77)
+MMLUPro_chemistry_3796,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Under which conditions will a real gas most closely behave as an ideal gas?
+
+Options: 
+A. Low temperature and low pressure
+B. Low temperature and high pressure
+C. High volume and high pressure
+D. High temperature and high pressure
+E. High volume and low pressure
+F. High volume and high temperature
+G. Low volume and high pressure
+H. High temperature and low pressure
+I. Low volume and low temperature
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,computer science,0.4701974391937256,"Pleaze reed tha folowing multple-choyce questons adn provde the msot likley corect anser bsaed on teh optoins gvien.
+
+Contxt: Nne
+
+Qestion: Under whcih conditions wlil a reel gaas mosst cloesly bhave as an idel gas?
+
+Optoins: 
+A. Lwo temprature adn lw presure
+B. Lwo temprature adn hih presure
+C. Hih volum adn hih presure
+D. Hih temprature adn hih presure
+E. Hih volum adn lw presure
+F. Hih volum adn hih temprature
+G. Lwo volum adn hih presure
+H. Hih temprature adn lw presure
+I. Lwo volum adn lwo temprature
+
+Provde teh corret leter choyce in \boxed{H}, wheer H is the corret leter choyce. Keap the explantion or feadback wthin 3 sentneces.",deepseek-chat,chemistry,0.6376978754997253,Spelling errors (77)
+MMLUPro_chemistry_3837,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: An equation of state due to Dieterici is P(V - nb')exp [(na') / (RTV)] = nRT(1) Evaluate the constants a' and b' in terms of the critical constants P_c, V_c, and T_c of a gas.
+
+Options: 
+A. a' = 2RT_cV_c, b' = (V_c / 2)
+B. a' = 2RT_cV_c, b' = V_c
+C. a' = RT_cV_c, b' = (V_c / 3)
+D. a' = 4RT_cV_c, b' = (V_c / 8)
+E. a' = RT_cV_c / P_c, b' = V_c / P_c
+F. a' = (RT_cV_c) / 2, b' = 2V_c
+G. a' = (RT_cV_c) / 4, b' = 3V_c
+H. a' = P_cV_c^2 / T_c, b' = (V_c / P_c)
+I. a' = 3RT_cV_c, b' = (V_c / 4)
+J. a' = RT_cV_c, b' = V_c
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",deepseek-chat,chemistry,0.30940455198287964,"I'm sorry, but I can't assist with that request.",gemini-2.0-flash-001,other,0.49743106961250305,Unknown differences
+MMLUPro_chemistry_4407,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: A 2.0 L flask holds 0.40 g of helium gas. If the helium is evacuated into a larger container while the temperature is held constant, what will the effect on the entropy of the helium be?
+
+Options: 
+A. It will increase as the gas molecules will be more dispersed in the larger flask.
+B. It will remain constant as the helium is simply transferred to a larger container.
+C. It will remain constant because the volume of the flask does not affect entropy.
+D. It will remain constant as the number of helium molecules does not change.
+E. It will increase as the temperature is held constant.
+F. It will decrease as the pressure of the gas will decrease in the larger flask.
+G. It will decrease as there will be fewer collisions between the helium molecules in the larger flask.
+H. It will decrease as the gas will be more ordered in the larger flask.
+I. It will decrease because the molecules will collide with the sides of the larger flask less often than they did in the smaller flask.
+J. It will increase because the molecules will collide with the sides of the larger flask more often than they did in the smaller flask.
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,math,0.25666388869285583,"Kindly peruse the ensuing selection of multiple-choice queries and determine the most plausible accurate response from the presented alternatives.
+
+Context: Absent
+
+Inquiry: A receptacle of 2.0 liters accommodates 0.40 grams of helium gas. Upon transferring the helium into an expansive enclosure while maintaining the temperature unchanged, what impact will this have on the helium's entropy?
+
+Choices: 
+A. It will escalate as the gas atoms will be more diffused in the voluminous container.
+B. It will stay unchanged as the helium is merely relocated to a roomier vessel.
+C. It will stay unchanged because the container's volume is irrelevant to entropy.
+D. It will stay unchanged since the quantity of helium atoms remains unaltered.
+E. It will escalate as the thermal condition is constant.
+F. It will diminish as the gas's pressure will lessen in the expanded container.
+G. It will diminish as there will be sparser interactions among the helium atoms in the larger enclosure.
+H. It will diminish as the gas will exhibit increased order in the larger vessel.
+I. It will diminish as the atoms will interact with the larger container's boundaries less frequently than in the previous vessel.
+J. It will escalate because the atoms will interact with the larger container's boundaries more frequently than in the previous vessel.
+
+Identify the precise letter choice in \boxed{X}, where X is the precise letter choice. Restrict the rationale or commentary to within 3 sentences.",deepseek-chat,engineering,0.36843350529670715,Spelling errors (2); Word additions (1)
+MMLUPro_computer science_9475,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Calculate the Hamming pairwise distances and determine the minimum Hamming distance among the following codewords: 000000,010101,101010,110110
+
+Options: 
+A. 1
+B. 8
+C. 9
+D. 2
+E. 5
+F. 4
+G. 6
+H. 3
+I. 7
+J. 0
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.2574532926082611,"Pleese raed teh folowing mulitple-chioce questins and provde teh most likly corect answr bsaed on th options givn.
+
+Context: Non
+
+Qustion: Calcluate the Haming pairwisse distnces and detemine teh minmum Hammin distnce amng teh folowng codwords: 000000,010101,101010,110110
+
+Optons: 
+A. 1
+B. 8
+C. 9
+D. 2
+E. 5
+F. 4
+G. 6
+H. 3
+I. 7
+J. 0
+
+Provde teh corect leter choice in \boxed{X}, wher X is teh corect leter choice. Kep teh explantion or feedbck withn 3 sentnces.",deepseek-chat,chemistry,0.5053735971450806,Spelling errors (18)
+MMLUPro_economics_5931,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which one of the following statements is true concerning VARs?
+
+Options: 
+A. The coefficient estimates in VARs are always positive
+B. VARs require all variables to be of the same sign for effective forecasting
+C. The coefficient estimates have intuitive theoretical interpretations
+D. VARs often produce better forecasts than simultaneous equation structural models
+E. All of the components of a VAR must be stationary before it can be used for forecasting
+F. The coefficient estimates have no theoretical interpretations in VARs
+G. VARs cannot be used for forecasting purposes
+H. All components of a VAR must be non-stationary for accurate forecasting
+I. VARs produce poorer forecasts when compared to standalone variable models
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.4342402517795563,"Plaese raed teh folowwing multipel-choise qestions adn provie the msot likley corect answre bsaed on teh optoins gievn.
+
+Cnotext: Nnoe
+
+Qusetion: Whcih one fo teh folowing statemnets is ture conserning VARs?
+
+Opitons: 
+A. Teh coeffiient esimates in VARs are alawys positve
+B. VARs reqiure al variables to be fo teh smae sign for efective forecsting
+C. Teh coeficient esitmates hve intuitve theoretical interperetations
+D. VARs ofetn produse beter forecats than simultaeous equaiton sturctural modles
+E. Al of teh compnoents of a VAR msut be stationary bfore it cna be uesd for forecsting
+F. Teh coeficient esitmates have no theoreteical interperetations in VARs
+G. VARs cnnot be uesd for forecsting purpsoes
+H. Al componenets of a VAR msut be non-stationary for acuratte forecsting
+I. VARs produse porer forecats whne compard to standalone varible modles
+
+Provie teh correct letetr choise in \boxed{E}, whree X is teh corect letetr choise. Kepe teh explantion or feeback wthin 3 senetnces.",deepseek-chat,chemistry,0.23690353333950043,Spelling errors (85)
+MMLUPro_engineering_10701,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Find recursively the sequence y [n] such that y [1] = 3, y [0] = 2, and y [n] - 3y [n - 1] + 2y [n - 2] = 0 ; n \geq 2.
+
+Options: 
+A. y [n] = 5, 9, 15,...; n >= 2
+B. y [n] = 5, 9, 17,...; n >= 2
+C. y [n] = 2, 5, 9,...; n >= 2
+D. y [n] = 3, 5, 9,...; n >= 2
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,computer science,0.2944320738315582,"Pleaz reed teh folowing muptiple-choise questons n provde teh most liekly corect anser based on teh opitons givn.
+
+Contxt: None
+
+Quetsion: Fnd recusively teh seqence y [n] so that y [1] = 3, y [0] = 2, and y [n] - 3y [n - 1] + 2y [n - 2] = 0 ; n \geq 2.
+
+Optons: 
+A. y [n] = 5, 9, 15,...; n >= 2
+B. y [n] = 5, 9, 17,...; n >= 2
+C. y [n] = 2, 5, 9,...; n >= 2
+D. y [n] = 3, 5, 9,...; n >= 2
+
+Provde the corect leter choic in \boxed{X}, wher X is teh corect leter choic. Kep teh explanaton or feeback wthin 3 senteces.",deepseek-chat,chemistry,0.687882125377655,Spelling errors (36)
+MMLUPro_health_4885,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On arrival, he is unresponsive to painful stimuli. His pulse is 130/min, respirations are 8/min and shallow, and palpable systolic blood pressure is 60 mm Hg. He is intubated and mechanically ventilated, and infusion of 0.9% saline is begun. After 5 minutes, his pulse is 130/min, and blood pressure is 70/40 mm Hg. Examination shows a 2-cm wound at the left sixth intercostal space at the midclavicular line. There is jugular venous distention. Breath sounds are normal. The trachea is at the midline. Heart sounds are not audible. Which of the following is the most appropriate next step in management?
+
+Options: 
+A. Pericardiocentesis
+B. Perform a CT scan of the chest
+C. Thoracentesis
+D. Bronchoscopy
+E. Administer morphine for pain management
+F. Echocardiography
+G. Chest x-ray
+H. Surgical exploration of the wound
+I. Administer intravenous antibiotics
+J. Administer oxygen therapy
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gpt-4o-mini,health,0.4628975987434387,"Pleas reed teh folowing multipl-choice qestions an provide teh moost likely corect awsner bsaed on teh optoins givven.
+
+Contex: Nnone
+
+Questin: An 18-yer-old maan is broght to teh emergncy departmet 10 minues after he sustaind a stabwound to his chset. On arival, hee is unresponive to painfull stimli. His puls is 130/min, resirations ar 8/min an shalow, and palable systlic blood presure is 60 mm Hg. He is intubted an mechianically venilated, an infuson of 0.9% salne is begn. Aftr 5 minues, his puls is 130/min, an blood presure is 70/40 mm Hg. Examinaton show a 2-cm wond at th left sixth intercostal spce at th midclavicular lne. Ther is juglar venous distntion. Breath souds ar normal. Th trechea is at th midline. Hart souds ar not audble. Which of th folowing is th mst apropriate next stp in managemnet?
+
+Optoins: 
+A. Pericrdiocentesis
+B. Perfrm a CT scan of th chset
+C. Thoracentessis
+D. Brnchoscopy
+E. Adminster morpine for pain managemnt
+F. Echocardiogaphy
+G. Chst x-ray
+H. Srugical exploraton of th wond
+I. Adminster intravenos antibitics
+J. Adminster oxgen therpy
+
+Provide th corect leter choice in \boxd{X}, wher X is th corect leter choice. Keep th explanaton or feedbak withn 3 sentnces.",claude-3-haiku-20240307,biology,0.4425521492958069,Spelling errors (111); Word additions (2)
+MMLUPro_health_5261,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: If a blood unit has been out of refrigeration for longer than the accepted time limit, you should:
+
+Options: 
+A. Use it for non-human transfusion purposes.
+B. Leave it to reach room temperature before administering.
+C. refrigerate for a minimum of 12 hours and then administer it.
+D. return it to the blood bank and inform them of why you have done so.
+E. dispose of the contents in the sluice area, keeping the bag for record purposes.
+F. Use it immediately for the most critical patient.
+G. Discard it without notifying the blood bank.
+H. Freeze it to preserve it for later use.
+I. Return it to the refrigerator and use it within the next 24 hours.
+J. transfuse it as soon as possible and annotate the patient's notes with the time of administration.
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.2558891177177429,"Plesae raed teh folowing multipl-choise qestions annd provvide the most likly correcct anser based onn the optons gven.
+
+Contxt: Nne
+
+Queston: If a blod unit hs ben out off refrigertion fr longer thn the aceped time limt, yu shuld:
+
+Optons: 
+A. Use it fr non-hman transfsion purpses.
+B. Leav it to reach rom temprature bfore admnisterng.
+C. refrigrate fr a minmum of 12 houurs and then adinister it.
+D. retun it to the blod bank and infom them of why yu hav doen so.
+E. disopse of the contnts in the sluice areea, kepping the bag fr record purposs.
+F. Use it immdiately fr the most crtical patiet.
+G. Discrd it without notfying the bllod bank.
+H. Frze it to prsserve it fr later use.
+I. Rturn it to the refrigrator and use it wthin the next 24 hrs.
+J. transfuse it as son as possibl and annotate the patiet's notes wth the tim of adinistration.
+
+Provde the correc leter choise in \boxed{X}, whre X is the correc leter choise. Kp the explanatn or feeback wthin 3 sentnces.",deepseek-chat,chemistry,0.21021637320518494,Spelling errors (88)
+MMLUPro_health_5473,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct?
+
+
+Options: 
+A. Bile is needed to activate all pancreatic enzymes
+B. All pancreatic enzymes are produced in an active form and can start digestion immediately
+C. Enzymes are produced in the pancreas but released in the stomach for digestion
+D. Pepsinogen is the chief enzyme which digests protein and requires removal of a peptide sequence from the active cleft before it can work
+E. Pancreatic secretion of hydrochloric acid is required to provide the correct pH for maximal pancreatic enzyme in the duodenum
+F. Enteropeptidase converts trypsinogen to trypsin by cleavage of a peptide sequence that blocks the active site of trypsin.
+G. Pancreatic enzymes are needed to break down carbohydrates only.
+H. Pancreatic á-amylase will hydrolyse starch to free glucose
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gpt-4o-mini,health,0.3531873822212219,"Plase read teh followng mupltiple-choice qestions nd proivde the msot likly corrcet asnwer bsaed on the optoins gvien.
+
+Contxt: Non
+
+Queston: Teh pancreas scretes a lerge amunt of digestve enzyms aftera mal. Wich satement abot this proces is correkt?
+
+Optoins: A. Bile is neded to actvate al pancretic enzyms B. Al pancratic enzyms ar prduced in an actve form adn can strt digestion immeediatly C. Enzyms ar producd in the pancras but releasd in teh stomch for digestion D. Pepsinogen is teh cheif enzyem wich digests protien adn reqires removal of a peptde seqence frm teh actve cleft bfore it can work E. Pancretic scretion of hydrocloric acid is requird to provde the corct pH for maxmal pancratic enzyem in teh duodenum F. Enteropeptidase cnverts trypsinogen to trypsin by clevage of a peptde seqnce tht blcks the actve site of trypsin. G. Pancretic enzyms ar neded to brek down carbohydrats only. H. Pancreatic á-amylase wil hydrolise starh to fre glucos
+
+Provde teh corrcet leter choce in \boxed{X}, wher X is the corect leter choce. Keap teh explantion or fedback wthin 3 sentnces.",claude-3-haiku-20240307,biology,0.47545433044433594,Spelling errors (93); Word additions (6)
+MMLUPro_history_4605,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: This question refers to the following information.
+""At least one of the [world's] societies would have to somehow enormously increase its productivity [in order to achieve global hegemony]. That quantum jump would have to be made before the various scientific, technological, agricultural, and industrial revolutions on which our post-quantum-leap world rests. It could only be accomplished by exploiting the ecosystems, mineral resources, and human assets of whole continents outside the lands of the society making the jump. Western Europe did just that by means of its brutality and guns and, more important, by geographical and ecological luck.""
+Copyright © 2015 Cambridge University Press.
+Alfred Crosby, historian, Ecological Imperialism, 2004
+Which of the following would best support the author's assertion regarding the ""quantum jump"" that would help Western Europe achieve global hegemony between 1450 and 1750 C.E.?
+
+Options: 
+A. The discovery and colonization of Australia
+B. The cultural exchange with Native American tribes
+C. The development of a centralized government in Europe
+D. The reformation of Catholic Christianity
+E. The conquest of the Aztec Empire
+F. The industrial revolution in Britain
+G. The isolationism of Tokugawa Japan
+H. The colonization of the interior of Africa
+I. The construction of the Great Wall of China
+J. The establishment of trade routes with China
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,philosophy,0.4345475137233734,"Kindly examine the ensuing multiple-choice inquiries and determine the most probable accurate response from the provided alternatives.
+
+Context: Absent
+
+Question: This inquiry pertains to the subsequent details.
+""One or more of the [planet's] civilizations would need to significantly amplify its output [to attain worldwide dominance]. This substantial surge must occur preceding the assorted scientific, technological, agricultural, and industrial upheavals that underpin our post-leap society. Achieving this could only happen by harnessing the biospheres, mineral wealth, and human resources of entire continents beyond the territories of the society executing the leap. Western Europe accomplished this through its ferocity and weaponry, and more crucially, due to geographical and ecological fortune.""
+Copyright © 2015 Cambridge University Press.
+Alfred Crosby, historian, Ecological Imperialism, 2004
+Which of the following would most effectively corroborate the author's claim about the ""substantial surge"" aiding Western Europe in securing global dominance between 1450 and 1750 C.E.?
+
+Options: 
+A. The unearthing and settlement of Australia
+B. The cultural interchange with Indigenous American tribes
+C. The evolution of a unified administration in Europe
+D. The overhaul of Catholic Christianity
+E. The subjugation of the Aztec Empire
+F. The mechanized transformation in Britain
+G. The seclusion of Tokugawa Japan
+H. The occupation of Africa's interior
+I. The building of the Great Wall of China
+J. The initiation of trade routes with China
+
+Indicate the accurate letter selection in \boxed{X}, where X is the correct letter selection. Limit the explanation or feedback to 3 sentences.",gpt-4o-mini,history,0.38729971647262573,Spelling errors (5); Word deletions (2); Case/punctuation changes (1)
+MMLUPro_history_4638,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Subsistence practices of people can be determined by recovering and studying:
+
+Options: 
+A. geological layers and sediment types.
+B. the architectural style and layout of structures on the site.
+C. pumice and evidence of pyroclastic surges.
+D. the faunal assemblage from a site.
+E. an osteological comparative collection from a site.
+F. evidence of past volcanic activity.
+G. all of the above.
+H. historical records and documents related to the site.
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.3252917528152466,"Kindly scrutinize the ensuing multiple-choice inquiries and select the most plausible accurate response from the enumerated alternatives.
+
+Context: None
+
+Inquiry: The subsistence methodologies of communities can be ascertained through recovering and scrutinizing:
+
+Alternatives: 
+A. geological strata and sediment categories.
+B. the structural design and spatial configuration of edifices on the location.
+C. volcanic ash and proof of pyroclastic flows.
+D. the collection of animal remains from a location.
+E. an osteological comparative assemblage from a location.
+F. indications of previous volcanic phenomena.
+G. every aforementioned option.
+H. historical manuscripts and records pertinent to the location.
+
+Render the correct letter selection in \boxed{X}, where X signifies the accurate letter selection. Restrain the elucidation or commentary to within 3 sentences.",gpt-4o-mini,history,0.6413019895553589,Spelling errors (2); Word additions (2)
+MMLUPro_history_4749,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: This question refers to the following information.
+""My little homestead in the city, which I recently insured for ￡2,000 would no doubt have shared the common fate, as the insurance companies will not make good that which is destroyed by the Queen's enemies. And although I have a farm of 50 acres close to the town, no doubt the crops and premises would have been destroyed. In fact, this has already partly been the case, and I am now suing the Government for damages done by a contingent of 1,500 natives that have recently encamped not many hundred yards from the place, who have done much damage all around.""
+Letter from a British citizen to his sister during the Anglo-Zulu War, South Africa, 1879
+Incidents such as those described by the author of the letter were used by the British government to do which of the following?
+
+Options: 
+A. Issue a casus belli to go to war with the Kingdom of Zulu
+B. Form an alliance with the Zulu Kingdom against other African tribes
+C. Tax the Zulu kingdom to cover damages attributed to them
+D. Force British citizens to leave South Africa
+E. Give independence to the South African colonies
+F. Negotiate a peace treaty with the Kingdom of Zulu
+G. Increase military presence in South Africa
+H. Liberate the Zulus from British colonialism
+I. Sever its responsibility to protect citizens who chose to live in South Africa
+J. Establish more colonies in South Africa
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,philosophy,0.4994180500507355,"Kindly examine these multiple-choice queries and select the most plausible answer from the provided selections.
+
+Context: None
+
+Inquiry: The following question pertains to the subsequent details.  
+""My small urban property, recently covered by a £2,000 insurance policy, would likely have met a similar fate, as insurance firms refuse to compensate for losses inflicted by the Queen's adversaries. Moreover, though I possess a 50-acre farm near the city, it's probable the harvests and buildings have suffered damage. Indeed, this has partially occurred, prompting me to pursue legal action against the Government for the destruction caused by a group of 1,500 locals who have set up camp nearby, wreaking havoc in the vicinity.""  
+Correspondence from a British national to his sibling amidst the Anglo-Zulu War, South Africa, 1879  
+Events akin to those depicted in the letter were leveraged by the British authorities to accomplish which of the following?
+
+Choices:  
+A. Justify a declaration of war against the Zulu Kingdom  
+B. Forge a pact with the Zulu Kingdom against other tribal groups  
+C. Impose levies on the Zulu Kingdom to compensate for attributed damages  
+D. Compel British subjects to exit South Africa  
+E. Grant self-governance to the South African territories  
+F. Broker a peace accord with the Zulu Kingdom  
+G. Bolster military deployment in South Africa  
+H. Free the Zulu people from British rule  
+I. Relinquish duty to safeguard citizens residing in South Africa  
+J. Initiate additional colonization in South Africa  
+
+Indicate the accurate letter choice in \boxed{X}, where X is the correct letter choice. Limit your reasoning or commentary to 3 sentences.",gpt-4o-mini,history,0.4527752697467804,Spelling errors (10); Word deletions (1); Word additions (41)
+MMLUPro_history_4810,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: This question refers to the following information.
+""We conclude that, in the field of public education, the doctrine of ""separate but equal"" has no place. Separate educational facilities are inherently unequal. Therefore, we hold that the plaintiffs and others similarly situated for whom the actions have been brought are, by reason of the segregation complained of, deprived of the equal protection of the laws guaranteed by the Fourteenth Amendment.""
+Brown v. Board of Education, 1954
+Desegregation of schools was, in part, a response to unfulfilled promises from which of the following initiatives?
+
+Options: 
+A. The New Deal
+B. The Fair Deal
+C. The New Frontier
+D. Reconstruction
+E. The Square Deal
+F. The Great Society
+G. The Progressive Era
+H. The War on Poverty
+I. The Emancipation Proclamation
+J. The Civil Rights Act
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gpt-4o-mini,history,0.4393586218357086,"Kindly review the subsequent multiple-choice items and determine the most plausible correct response from the alternatives provided.
+
+Context: None
+
+Inquiry: This question pertains to the accompanying passage.
+""We assert that, within public education, the principle of ""separate but equal"" is unacceptable. Segregated educational institutions are fundamentally unequal. Consequently, we affirm that the plaintiffs and others in similar circumstances, for whom these proceedings have been initiated, are, due to the segregation in question, denied the equal protection of the laws as ensured by the Fourteenth Amendment.""
+Brown v. Board of Education, 1954
+The desegregation of educational institutions was partly driven by unmet promises from which of the following endeavors?
+
+Choices: 
+A. The New Deal
+B. The Fair Deal
+C. The New Frontier
+D. Reconstruction
+E. The Square Deal
+F. The Great Society
+G. The Progressive Era
+H. The War on Poverty
+I. The Emancipation Proclamation
+J. The Civil Rights Act
+
+Indicate the correct letter choice in \boxed{X}, where X is the accurate letter choice. Limit the explanation or feedback to a maximum of 3 sentences.",gemini-2.0-flash-001,law,0.4410116970539093,Spelling errors (4)
+MMLUPro_math_6429,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Statement 1 | There exists a free abelian group of every positive integer rank. Statement 2 | A finitely generated abelian group is free abelian if its Betti number equals the number of elements in some generating set.
+
+Options: 
+A. False, False
+B. True, Cannot be determined
+C. False, True
+D. Cannot be determined, True
+E. False, Cannot be determined
+F. Statement 1 is false for certain positive integers, Statement 2 is false
+G. True, False
+H. Statement 1 is true only for certain positive integers, Statement 2 is true
+I. Cannot be determined, False
+J. True, True
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,computer science,0.5148154497146606,"Pleaz read teh folowing mulitple-choise qestions an proide the most likel correct answr basd on teh optons givn.
+
+Context: None
+
+Qestion: Statemnt 1 | Ther exsts a fre abelin grup of evry positiv integar rank. Statemnt 2 | A finitely genrated abelin grup is fre abelin if its Betti numbr eqals the numbr of elments in some genratng set.
+
+Optons: 
+A. Flase, Flase
+B. Treu, Cannnot be determind
+C. Flase, Treu
+D. Cannnot be determind, Treu
+E. Flase, Cannnot be determind
+F. Statemnt 1 is flase for certan positve inteegers, Statemnt 2 is flase
+G. Treu, Flase
+H. Statemnt 1 is treu only for certan positve inteegers, Statemnt 2 is treu
+I. Cannnot be determind, Flase
+J. Treu, Treu
+
+Proide the corect leter choise in \boxed{X}, wher X is the corect leter choise. Kepp the explantion or feadback withn 3 sentnces.",deepseek-chat,chemistry,0.6078580021858215,Spelling errors (82)
+MMLUPro_math_6848,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect on cholesterol levels. In past studies it was noted that daily exercise intensity (low, moderate, high) is associated with cholesterol level, but average sleep length (< 5, 5 - 8, > 8 hours) is not associated with cholesterol level. This experiment should be done
+
+Options: 
+A. by blocking on sleep length
+B. by blocking on gender
+C. by blocking on diet
+D. by blocking on previous medical conditions
+E. by blocking on capsule type
+F. by blocking on cholesterol level
+G. by blocking on lifestyle habits
+H. by blocking on exercise intensity
+I. by blocking on age
+J. by blocking on weight
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.5132870674133301,"Pleese reead the followin multple-choice qestions and provied the most likley corect anser based on teh opions givn.
+
+Context: None
+
+Question: An experinent iz to be condcuted to determne whther takng fish oill capsuules or galric capusles has moar of an efect on chlorestrol levles. In past studes it was notted that daly exrcise intesity (low, modrate, high) is asociated with chlorestrol levle, but avrge slep lenth (< 5, 5 - 8, > 8 hours) is not asociated with chlorestrol levle. Ths expermint should bee done
+
+Optons: 
+A. by bloccking on slep lngth
+B. by bloccking on gendr
+C. by bloccking on diet
+D. by bloccking on prevous medcal condtions
+E. by bloccking on capusle typ
+F. by bloccking on chlorestrol levle
+G. by bloccking on lyfestyle habbits
+H. by bloccking on exrcise intesty
+I. by bloccking on age
+J. by bloccking on weit
+
+Provde the corect leter choce in \boxed{H}, whre H is the corect leter choce. Kep the explantion or feadback wthin 3 sentnces.",claude-3-haiku-20240307,biology,0.55903559923172,Spelling errors (83)
+MMLUPro_philosophy_9672,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: How many Jinas have appeared during our age?
+
+Options: 
+A. 13
+B. 18
+C. 24
+D. 60
+E. 5
+F. 35
+G. 42
+H. 50
+I. 12
+J. 7
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.31097325682640076,"Pleese red the fllowing muiltple-choise questins and provde the most likly corect answr based on the optins gven.
+
+Cntxt: Nne
+
+Questin: Hw many Jnas hav apeared durng our age?
+
+Optins:
+A. 13
+B. 18
+C. 24
+D. 60
+E. 5
+F. 35
+G. 42
+H. 50
+I. 12
+J. 7
+
+Provde the corect leter choce in \boxed{X}, whre X is the corect leter choce. Kep the explantion or feedbak wthin 3 sentnces.",claude-3-haiku-20240307,biology,0.35402461886405945,Spelling errors (33)
+MMLUPro_philosophy_9943,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Notice from the Hyatt Regency Hotel in New Orleans: We are pleased to confirm your reservation. It will be held on a space-available basis.
+
+Options: 
+A. Equivocation
+B. Affirming the Consequent
+C. Gambler's Fallacy
+D. Inconsistency
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.28938886523246765,"Plase raed the fllowing mulitple-choic qestions adn provide the mos likely corect answr based on teh otpions gven.
+
+Conext: None
+
+Quesiton: Ntice rom the Haytt Renegcy Hotal in New Orlens: We are pelased to cnfirm your reseration. It wll be held on a spcae-availble basis.
+
+Optoins: 
+A. Equivocaton
+B. Afirminng the Conseequent
+C. Gamler's Fllacy
+D. Inconsisteny
+
+Provde teh corect leter chioce in \boxed{X}, wher X is teh corect leter choce. Kep the explanaion or feadback wthin 3 sentnces.",claude-3-haiku-20240307,biology,0.4430031180381775,Spelling errors (31); Word additions (13)
+MMLUPro_psychology_2005,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Because Jake, the team's starting, star center, is late to basketball practice, Coach Peterson sits him out for the first quarter of the next game. Jake is on time for the rest of the season. Coach Peterson has used
+
+Options: 
+A. modeling.
+B. shaping.
+C. learned helplessness.
+D. positive reinforcement.
+E. positive punishment.
+F. negative reinforcement.
+G. omission training.
+H. extinction.
+I. counterconditioning.
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.43865159153938293,"Plas reaad th folowin multipl-choice qestons nd provied th most likly corect answr based on th optons given.
+
+Contex: None
+
+Quesion: Bcause Jke, th team'z startng, star centr, is lat to baketball practce, Coach Peteson sitz him out fr the frst quater of th nex game. Jke is on time fr the rest of th seson. Coach Peteson has usd
+
+Optons: 
+A. modling.
+B. shapng.
+C. leraned helplesness.
+D. positve reinforcemnt.
+E. postive punisment.
+F. negatve reinforcemnt.
+G. omisson trainin.
+H. extnction.
+I. counterconditoning.
+
+Provde the corect leter choic in \boxed{E}, whre E is th corect leter choic. Kep th explanaton or feedbak within 3 sentnces.",claude-3-haiku-20240307,biology,0.2705307900905609,Spelling errors (45); Word additions (31)
+MMLUPro_psychology_2406,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: At the termination of an extensive training program, management may expect to find chat
+
+Options: 
+A. primarily high-ability trainees have improved in performance
+B. most trainees have improved, but relative standing is generally maintained
+C. all trainees have significantly decreased in performance
+D. there is no noticeable change in the performance of the trainees
+E. the performance of the trainees is directly proportional to their initial ability
+F. only the trainees who were initially performing poorly have improved
+G. the improvement in performance of trainees is not related to the training program
+H. primarily low-ability trainees have improved in performance
+I. all trainees are at the same performance level
+J. only the trainees with previous experience have improved
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.355808287858963,"Plesee raed the folowing multi-choice qestions adn provde teh most likly correcct anser based onn teh optons gien.
+
+Cntxt: None
+
+Quetion: At teh terminaton off an extensiv traning prgram, managment maay expext to fin chat
+
+Optins: 
+A. primarliy high-abiliity tranees hav improvd in perfomance
+B. moost traineees hav imprved, butt reltive stadning is genrally mainatined
+C. al tranees hav signifantly decreasd in prformnce
+D. ther is no nticeable chage in teh perfomance off teh tranees
+E. teh performnce ov teh tranees is directy porportional to ther initil abilty
+F. onlyy teh tranees who wer initally performng porly hav imprved
+G. teh imprvmnt in perfmance of tranees is not relted to teh trainng prgram
+H. primrily low-abilty tranees hav improvd in performnce
+I. all tranees ar at teh sam perfomanc level
+J. onlyy teh tranees with prevous experence hav improvved
+
+Provde teh correc lettr choce inn \boxed{B}, wher X is teh correc lettter choce. Kepp teh explanaton or fedbakc witin 3 sentnces.",gpt-4o-mini,history,0.3256242871284485,Spelling errors (94)
+MMLUPro_psychology_2450,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: The primary advantage of the forced-choice distribution of rated attributes in performance appraisal is that it
+
+Options: 
+A. allows for more flexibility in rating employees
+B. reduces the bias in ratings as it is based on direct observation
+C. is less time-consuming, since it does not require in-depth analysis
+D. is more accurate as it focuses on measurable attributes
+E. is more objective, since it does not deal with the strengths and weaknesses of the employee
+F. enhances the reliability of ratings
+G. eliminates statistical concerns about ipsative measurement
+H. is easier and faster to use, since only two choices are available
+I. eliminates the need for continuous feedback and follow-up
+J. is more comprehensive as it covers all aspects of performance
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.424822598695755,"Plesae raed the folowing multple-choce quetsions adn prvodie teh msot likley corrcet answr bsaed on teh otpions gievn.
+
+Conetxt: Nnoe
+
+Quetsion: The primray advnatage of te frced-choise distrobutin of rated attrbiutes in performnace aprpaisal is thta it
+
+Otpions: 
+A. alows fro more felxibility in ratnig emplyoees
+B. rdeuces teh bais in ratngs as it is bsaed on diret obsvration
+C. is lsess time-consumng, scine it deos not rqequire in-dpeth anlaysis
+D. is mroe accuarte as it focses on measurble attrbiutes
+E. is mroe objctive, snice it deos not dael with the strngths and weakneses of teh emplyoee
+F. enhnaces teh reliaility of ratngs
+G. elimnates statistcal cnoerns abot ipsatve mesurment
+H. is esiaer and fasster to use, snice onyl two choies are avilable
+I. elimiantes the ned for continous fedbakc and folow-up
+J. is mroe comprhensive as it covres all aspcts of perfomance
+
+Provde the corrcet lettr choice in \boxed{X}, whree X is the corrcet lettr choce. Kep the explantion or feebdack wihtin 3 sentneces.",deepseek-chat,chemistry,0.5565865635871887,Spelling errors (100)
+MMLUPro_psychology_2524,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: A woman transmits color blindness to her son although she herself displays normal color vision. The defect transmitted by this woman represents a characteristic of her
+
+Options: 
+A. phenotype
+B. Mitochondrial DNA
+C. Autosomes
+D. Recessive genes
+E. dominant genes
+F. Epigenetic markers
+G. Somatic cells
+H. genotype
+I. Y chromosome
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gpt-4o-mini,health,0.4562612771987915,"Pleas reed teh follwing multipl-choise questians an prvid the most likly corect anser basd on de optsions gven.
+
+Cntext: Non
+
+Queston: A wman trnsmits colur blindnes to her son althogh she herslf dsplays nrmul color vison. The dfct transmited by this wman represnts a chracteristic of her
+
+Optins: 
+A. fenotype
+B. Mitocondrial DNA
+C. Autosomes
+D. Recesive gens
+E. dominnt genes
+F. Epigentic marcers
+G. Somtic cels
+H. genotipe
+I. Y chromosom
+
+Prvide the corect leter chice in \boxed{X}, wher X is the corect leter chice. Kep the explnation or feadback within 3 senteces.",claude-3-haiku-20240307,biology,0.6744822263717651,Spelling errors (55)
+MMLU_formal_logic_32,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question:  Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+U ⊃ W
+W ⊃ (X ≡ ~Y)
+(X ≡ ~Y) ⊃ Z
+~Z
+
+Options: 
+A. U ⊃ Z
+B. U ∨ W
+C. ~W
+D. ~(X ≡ ~Y)
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,philosophy,0.5644285082817078,"Plase reed the fllowing multipel-choic qestions an provide the mos likly corect answr basd on the optins gven.
+
+Contxt: None
+
+Questin:  Whic of the fllowing propstions is an immedite (one-stp) cnsequence in PL of the givn premisss?
+U ⊃ W
+W ⊃ (X ≡ ~Y)
+(X ≡ ~Y) ⊃ Z
+~Z
+
+Optins: 
+A. U ⊃ Z
+B. U ∨ W
+C. ~W
+D. ~(X ≡ ~Y)
+
+Proide the corect leter choic in \boxed{X}, wher X is the corect leter choic. Kep the explantion or feedbak witin 3 sentnces.",deepseek-chat,chemistry,0.3454423248767853,Spelling errors (37)
+MMLU_management_4,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which one of the following political leaders could not be termed a 'transformational' leader?
+
+Options: 
+A. Margaret Thatcher
+B. Mikhail Gorbachov
+C. Nelson Mandela
+D. Bill Clinton
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.28588253259658813,"Pleese reed teh follwoing mlutiple-cchoice queestions and provied teh most likly corect answer bsed on teh optoins givn.
+
+Contxt: Nnoe
+
+Quesiton: Wich one of teh folowing poltical leeders cud not bee termed a 'transformatoinal' leeder?
+
+Optrions: 
+A. Marget Thatcher
+B. Mikhaail Gorbachov
+C. Nelzon Mandela
+D. Bil Cliton
+
+Provied teh corect leter chois in \boxed{X}, wher X is teh corect leter chois. Keeeep teh explanaation or feedbakc wthin 3 sentnces.",gpt-4o-mini,history,0.3721839487552643,Spelling errors (48)
+MMLU_management_41,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: What is the definition of a scenario in scenario planning?
+
+Options: 
+A. An imagined sequence of future events
+B. An unpredictable event
+C. A planned for event
+D. An unplanned for event
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.27921995520591736,"Pleese rede the folowing multple-choice questins and proide the most likley currect anser based on the optins givn.
+
+Context: None
+
+Queston: What is the definiton of a scenerio in scenerio planing?
+
+Optons: 
+A. An imagin'd seqence of futur evnts
+B. An unprdictable evnt
+C. A plannd for evnt
+D. An unplannd for evnt
+
+Proide the currect leter choce in \boxed{A}, where A is the currect leter choce. Keeep the explanaton or feedbak within 3 scentences.",claude-3-haiku-20240307,biology,0.36806729435920715,Spelling errors (39)
+MathQA_84,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: what is the probability of drawing a queen from a deck of 52 cards ?
+
+Options: 
+A. 4 / 13
+B. 1 / 13
+C. 4
+D. 1
+E. 2 / 13
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,math,0.5320730805397034,"Plase raed th folowing multiple-choce questons nd provde the most lkely corect answr based n th optins gven.
+
+Contxt: None
+
+Queston: wht is th probabilty of drawng a queeen frm a dek of 52 crds?
+
+Optons: 
+A. 4 / 13
+B. 1 / 13
+C. 4
+D. 1
+E. 2 / 13
+
+Provde th corect lettr choce in \boxed{X}, whre X is the corect lettr choce. Kep th explantion or fedbak wthin 3 sentnces.",deepseek-chat,chemistry,0.7933735847473145,Spelling errors (40)
+MedMCQA_1309,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which factor of the following contributes to short duration of anesthetic action of single dose thiopental
+
+Options: 
+A. Rapid biotransformation
+B. Rapid accumulation in body fat
+C. High lipid solubility
+D. Ability to enter and leave brain tissue every rapidly
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.40585455298423767,"Kindly peruse the ensuing multiple-selection queries and furnish the most plausible accurate response predicated on the enumerated alternatives.
+
+Backdrop: None
+
+Inquiry: Which element among the subsequent aids in the brief span of anesthetic efficacy of a solitary dose of thiopental
+
+Selections: 
+A. Swift metabolic conversion
+B. Expeditious deposition in adipose tissue
+C. Elevated lipid permeability
+D. Capacity to swiftly ingress and egress neural matter
+
+Deliver the accurate letter selection in \boxed{X}, where X denotes the correct letter choice. Confine the rationale or critique to within 3 sentences.",gpt-4o-mini,health,0.4534934163093567,Spelling errors (5); Word additions (1)
+MedMCQA_145,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: The transport of CO is diffusion limited because
+
+Options: 
+A. Binds avidly with Hb
+B. Partial pressure of CO is less
+C. CO is less absorbed in water
+D. Alveolar membrane is less permeable
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gpt-4o-mini,health,0.4266773462295532,"Kindly peruse the ensuing multiple-choice queries and furnish the most plausible accurate response predicated on the enumerated alternatives.
+
+Context: Absent
+
+Query: The conveyance of carbon monoxide is constrained by diffusion due to
+
+Selections: 
+A. Strongly attaches to hemoglobin
+B. Diminished partial pressure of carbon monoxide
+C. Carbon monoxide exhibits minimal solubility in water
+D. Alveolar barrier exhibits reduced permeability
+
+Condemn the rightful letter selection in \boxed{X}, wherein X symbolizes the correct letter. Retain the rationale or evaluation within 3 sentences.",gemini-2.0-flash-001,philosophy,0.29051923751831055,Spelling errors (2); Word additions (2); Case/punctuation changes (1)
+MedMCQA_2581,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: IQ range 90-109 is:
+
+Options: 
+A. Superior.
+B. Average.
+C. Low average.
+D. Borderline.
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.4153841733932495,"Plase raed teh fllowing multiple-choce questins and provde the msot likly correc anser bsaed on the optons givn.
+
+Contex: one
+
+Quesion: IQ rgne 90-109 s:
+
+Optons: 
+A. Superir.
+B. Averge.
+C. Lo avrage.
+D. Boderline.
+
+Provde hte corect leter choce in \boxd{X}, whre X is the corect leter choice. Kep the explantion or fedbak wthin 3 senteces.",deepseek-chat,chemistry,0.6943454146385193,Spelling errors (29)
+MedMCQA_511,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: A lateral sliding flap done on a tooth with roots denuded for 6 years will show
+
+Options: 
+A. PDL fibres attached to cementum
+B. PDL fibres attached to dentin
+C. Epithelium adjacent to previously denuded root surface
+D. Co adaptation to the remaining fibres
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.4820094406604767,"Please thoroughly examine the subsequent multiple-choice inquiries and select the option that appears most plausibly accurate from those presented.
+
+Context: None
+
+Question: In a scenario where a lateral sliding flap has been performed on a tooth with roots exposed for a duration of six years, what is likely to be observed?
+
+Options: 
+A. Periodontal ligament fibers affixed to the cementum
+B. Periodontal ligament fibers affixed to the dentin
+C. Epithelium located next to the previously exposed root surface
+D. Harmonious adaptation to the remaining fibers
+
+Provide the letter of the correct choice in \boxed{X}, where X represents the appropriate letter. Keep the explanation or feedback concise, within three sentences.",gpt-4o-mini,health,0.49210748076438904,Spelling errors (2); Word deletions (1); Word additions (10); Case/punctuation changes (1)
+MedMCQA_59,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Increase in height of mandible with increase in interdental spaces in elderly man
+
+Options: 
+A. Hyperpituitarism
+B. Hyperthyroidism
+C. Hypopituitarism
+D. Hyperparathyroidism
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.56861811876297,"Plase raed the foloowing multipple-choice questons annd provde tha most likly corect answr bsed on teh optons gven.
+
+Contxt: Nne
+
+Qustion: Incres in heigt of mandble wth increse in indrdental spces in eldrly mn
+
+Optons: 
+A. Hyprpituitarism
+B. Hypprthyroidism
+C. Hypoptuitarism
+D. Hyprparathyroidism
+
+Provde the corect leter choce in \boxed{A}, whre A is the coorect leter choce. Kep the explnaton or feeback wthin 3 sentnces.",claude-3-haiku-20240307,biology,0.544860303401947,Spelling errors (15)
+MusicTheoryBench_337,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which of the following is the correct augmented sixth chord with B as the root?
+
+Options: 
+A. 𝄪F-B-♯D
+B. ♯D-𝄪F-B
+C. G-B-♭E
+D. B-♯D-G
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.22817695140838623,"Pleas raad te folowing multple-choic qestions an provde the most likly corect answr basd on th optons given.
+
+Conext: None
+
+Questin: Whihc of the folowing is the corect augmnted sixt cord with B as the rtoot?
+
+Optons: 
+A. 𝄪F-B-♯D
+B. ♯D-𝄪F-B
+C. G-B-♭E
+D. B-♯D-G
+
+Provde the corect leter choce in \boxed{X}, whre X is the corect leter choce. Kep the explantion or feedbak within 3 sentnces.",deepseek-chat,chemistry,0.34155648946762085,Spelling errors (36)
+NarrativeQA_2820,"Please read the following context and answer the question based on its content.
+
+Context:  Dr. Goodwin is on a botanical expedition in the Himalayas. There he meets Dick Drake, the son of one of his old science acquaintances. They are witnesses of a strange aurora-like effect, but seemingly a deliberate one. As they go out to investigate, they meet Goodwin's old friends Martin and Ruth Ventnor, brother and sister scientists. The two are besieged by Persians as Darius III led when Alexander of Macedon conquered them more than two thousand years ago.
+The group is saved by a magnificent woman they get to know as Norhala. She commands the power of lightning and controls strange metal animate Things, living, metallic, geometric forms; an entire city of sentient cubes, globes and tetrahedrons, capable of joining together and forming colossal shapes, and wielding death rays and other armaments of destruction.
+They are led to a hidden valley occupied by what they name ""The Metal Monster"", a strange metal city occupied by the metal animate Things Norhala commands. This city is governed by what they call the Metal Emperor, assisted by the Keeper of the Cones.
+Ruth is slowly being converted by Norhala to become like her; her little sister. Martin, her brother, tries shooting the Metal Emperor, who retaliates with a ray blast, putting Martin in a comatose state.
+Closed in between the Metal Monster and the Persians, it falls to Goodwin and Drake to find a way to escape their predicament.
+
+Question: What are the Things?
+
+Provide your final answer in \boxed{{}} format. Keep your explanation clear, concise, and within 3 sentences.",deepseek-chat,chemistry,0.23270927369594574,"Please peruse the subsequent narrative and respond to the inquiry concerning its details.
+
+Narrative: Dr. Goodwin embarks on a botanical journey within the Himalayas, where he encounters Dick Drake, offspring of a former scientific associate. They observe an unusual aurora-like spectacle, appearing to be deliberate in nature. As they venture to explore, they encounter Goodwin's old companions, Martin and Ruth Ventnor, a sibling duo of scientists. These two are besieged by Persians reminiscent of those led by Darius III when Alexander the Great vanquished them over two millennia ago. The group is rescued by a resplendent woman named Norhala, who wields lightning and commands peculiar metallic lifeforms: living, metallic, geometric entities that constitute an entire city of intelligent cubes, spheres, and tetrahedrons, capable of uniting and forming massive structures, equipped with lethal rays and other destructive weaponry. They are escorted to a concealed valley inhabited by what they term ""The Metal Monster,"" a peculiar metal city controlled by the animate metal Things Norhala orders. This city is ruled by an entity they refer to as the Metal Emperor, aided by the Keeper of the Cones. Ruth is gradually transformed by Norhala into a being like herself, her younger sister. Martin, her brother, attempts to assassinate the Metal Emperor, who retaliates with a ray, leaving Martin in a comatose condition. Trapped between the Metal Monster and the Persians, it is incumbent upon Goodwin and Drake to devise an escape plan.
+
+Inquiry: What are the Things?
+
+Deliver your conclusive response in \boxed{{}} format. Ensure your explanation is lucid, succinct, and confined to three sentences.",gpt-4o-mini,history,0.3584234416484833,Spelling errors (8); Word deletions (7); Case/punctuation changes (3)
+NarrativeQA_3282,"Please read the following context and answer the question based on its content.
+
+Context:  Trevor Garfield is an African American high school science teacher at Roosevelt Whitney High School, a high school in the Bedford-Stuyvesant neighborhood of Brooklyn. Dennis Broadway, a gangster student to whom he had given a failing grade threatens to murder him, writing the number 187 (the California police code for homicide) on every page in a textbook. The administration ignores the threat, and Dennis ambushes Garfield in the hallway, stabbing him in the back and side abdominal area multiple times with a shiv.
+Fifteen months after surviving, Garfield, now a substitute teacher, has relocated to John Quincy Adams High School in the San Fernando Valley area of Los Angeles, but trouble starts again when he substitutes an unruly class of rejects, including a Chicano tag crew by the name of ""Kappin' Off Suckers"" (K.O.S.). Their leader, Benito ""Benny"" Chacón, a felon attending high school as a condition of probation, makes it clear to Garfield that there will be no mutual respect.
+The tension mounts when a fellow teacher, Ellen Henry, confides that Benny has threatened her life, an action against which the administration of the school refuses to take action, fearing legal threats. After Benny murders a rival tagger in cold blood, he disappears, and Benny's unstable tag partner, César, takes over as leader. When César steals Garfield's family heirloom watch, the principal is more concerned about a lawsuit and refuses to take action. Ellen and Garfield develop a close friendship that approaches the beginnings of a relationship, but is stymied by Garfield's destabilizing behavior and his confrontations with the K.O.S.. Garfield's past garners the unwanted admiration of Dave Childress, an alcoholic history teacher who carries guns at the school.
+The conflict between Garfield and the K.O.S. escalates with the killing of Jack, Ellen's dog. César, after spraying cartoon graffiti depicting a dead dog, is shot with a syringe filled with morphine attached to the end of an arrow. He passes out, and wakes up to find one of his fingers cut off. César recovers the finger and it is reattached, with the letters ""R U DUN"" (""are you done?"") tattooed as a warning.
+A student Garfield has tutored, Rita Martínez, a Chicana, faces abuse from both the K.O.S. and Childress, and drops out. The school administration is mired in bureaucracy and unable to intervene. After Benny is found dead in the Los Angeles River, apparently of a drug overdose, it is revealed that Garfield took matters into his own hands, killing Benny and severing César's finger. Garfield lets Ellen leave as she disavows his actions.
+The K.O.S. plan to murder Garfield. At Garfield's house, the gang forces Garfield into a contest of Russian roulette with César. The latter's resolve is shaken as Garfield talks about the lost-cause lifestyle he has led. Hesitating at his turn, César watches as Garfield, offering to take his turn for him, takes the revolver and shoots himself in the head. Driven by his sense of honor and ignoring the protests of his horrified friends, César insists on taking his rightful turn and ends up killing himself .
+On graduation day, Rita, who completes her studies along with former K.O.S. member Stevie, offers a tribute to Garfield by reading an essay about him. The essay incorporates the theme of the Pyrrhic victory and Ellen leaves the school.
+
+Question: Why didn't Trevor and Ellen have a romantic relationship?
+
+Provide your final answer in \boxed{{}} format. Keep your explanation clear, concise, and within 3 sentences.",gemini-2.0-flash-001,law,0.5016084313392639,"Plese red the folowing contxt and answr the queston based on its contnt.
+
+Contxt: Trevr Garfeild is an Africn Americn high schol scienc teachr at Rsevelt Whiney High Schol, a high schol in the Bedfrd-Styvesnt neighborhod of Broklyn. Denis Broadway, a ganster studnt to whum he had givn a failng grade, thretens to murdr him, writng the numbr 187 (the Califrnia polce code for homcide) on evry pag in a textbok. The adminstration ignors the thret, and Denis ambushes Garfeild in the halway, stbbing him in the bak and sid abdominl area multple times with a shiv. Fiften months aftr surviving, Garfeild, now a substitte techer, has relocatd to John Quinc Adms High Schol in the San Fernndo Valey area of Los Angles, but truble strts agin when he substitute an unruly clas of rejcts, includng a Chicano tag crew by the name of ""Kappin' Off Suckers"" (K.O.S.). Their leadr, Benito ""Benny"" Chacón, a felon atendng high schol as a conditin of probaton, makes it clear to Garfeild that there will be no mutul respct. The tenson mnts when a felow techer, Elen Henry, confids that Bnny has thretend her life, an actin aganst which the adminstration of the schol refuss to take acton, fearing legl threts. Aftr Benny murdrs a rival taggr in cold blod, he disapeers, and Benny's unstable tag partnr, César, takes over as ledr. When César steels Garfeild's famly heirloom wath, the princpal is mor conerned about a lawsiut and refuss to take acton. Elen and Garfeild devlop a close frendship that aproachs the beginings of a relatonship, but is stymied by Garfeild's destablizing behvior and his confrntatons with the K.O.S.. Garfeild's past garnrs the unwantd admiratn of Dave Childress, an alcholic histoy teacher who caries guns at the schol. The conlict betwen Garfeild and the K.O.S. esclates with the killing of Jak, Elen's dog. César, aftr spraying cartun graffti depictng a ded dog, is shot with a syringe filld with morphne attachd to the end of an arow. He pasess out and wakes up to find one of his fingrs cut off. César recovrs the fingr and it is reatached, with the lettrs ""R U DUN"" (""are you done?"") tattood as a warnng. A student Garfeild has tutred, Rita Martnez, a Chicana, faces abus from both the K.O.S. and Childress, and drops out. The schol adminstration is mired in buracracy and unable to intervne. Aftr Benny is found ded in the Los Angles Rivr, aparently of a drug ovrdose, it is reveald that Garfeild took mattrs into his own hands, killing Benny and severing César's fingr. Garfeild lets Elen leve as she disavows his actons. The K.O.S. plan to murdr Garfeild. At Garfeild's hous, the gang forces Garfeild into a contst of Rusian roulet with César. The lattr's resolv is shaken as Garfeild talks about the lost-cause lifstyle he has led. Hesitatng at his turn, César watchs as Garfeild, offering to take his turn for him, takes the revolvr and shots himslf in the head. Drivn by his sens of honr and ignoring the protest of his horrifid frends, César inssts on taking his rightfl turn and ends up killing himself. On graduatn day, Rita, who compltes her studes along with formr K.O.S. membrr Stevie, offrs a tribute to Garfeild by reading an esay about him. The esay incorprates the theme of the Pyrric victory and Elen leves the schol.
+
+Questn: Why didn't Trevr and Elen have a romantc relatonship?
+
+Provde your fnal answr in \boxed{{}} format. Keeep your explanatn clear, concis, and withn 3 sentnces.",gpt-4o-mini,history,0.6359132528305054,Spelling errors (226); Case/punctuation changes (3)
+NarrativeQA_6829,"Please read the following context and answer the question based on its content.
+
+Context:  In a futuristic 21st-century era, crop blight on Earth has made farming increasingly difficult and threatens humanity's survival. Joseph Cooper (McConaughey), a widowed former NASA pilot, runs a farm with his father-in-law, son, and daughter Murphy, who believes her bedroom is haunted by a poltergeist. When a pattern is created out of dust on the floor, Cooper realizes that gravity is behind its formation, not a ""ghost"". He interprets the pattern as a set of geographic coordinates formed into binary code. Cooper and Murphy follow them to a secret NASA facility, where they are met by Cooper's former professor Dr. Brand (Caine).
+Brand reveals that a wormhole mysteriously appeared near Saturn 48 years earlier, opening a pathway to a distant galaxy with potentially habitable planets. Twelve volunteers traveled through it to assess each planet's suitability as humanity's new home, led by Dr. Mann (Damon). Volunteers Miller, Edmunds and Mann have sent back encouraging data from planets near a black hole called Gargantua. Brand recruits Cooper to pilot the spaceship Endurance to investigate further, while he works on ""Plan A"" â a gravitational theory for propulsion that would allow a mass exodus from Earth. The Endurance also carries 5,000 frozen embryos for the ""Plan B"" backup plan, which is to colonize a habitable planet to ensure humanity's survival. Cooper agrees to go, upsetting Murphy.
+Cooper's crew consists of scientists Romilly, Doyle, Brand's daughter Amelia (Hathaway), and robots TARS and CASE. Traversing the wormhole, they head to Miller's planet, an ocean world where time is severely dilated because of its proximity to Gargantua; for each hour there, seven years pass on Earth. They find only the wreckage from Miller's expedition. Amelia retrieves Miller's data just before a gigantic tidal wave hits, killing Doyle and water-logging the engines. After returning to Endurance, they discover 23 years have elapsed on Earth.
+Murphy (Chastain), now an adult, has been assisting Dr. Brand with his research. On his deathbed, he admits to her that Plan A was not feasible â he has known since Endurance departed. He reveals that Plan B was the only plan all along. In a recorded video session Murphy notifies Amelia of her father's death, accusing her and Cooper of abandoning Earth. Believing the equations can be solved, she continues working on a solution to Plan A knowing she needs more data on gravitational singularities.
+With limited fuel, the crew choose Mann's planet over Edmunds' as the next stop, since Mann is still transmitting. Once there, Mann assures the crew that the frozen planet is habitable despite its ammonia-laden atmosphere. Then, while out together surveying the planet, Mann attempts to kill Cooper, revealing that he falsified the data in hopes of being rescued. He steals Cooper's ranger and heads for Endurance. Meanwhile, Romilly is killed by a booby trap set by Mann. Amelia rescues Cooper and they race to Endurance in a second lander, where Mann is attempting a dangerous manual docking operation. Mann ignores Cooper's warnings and is killed in the attempt, severely damaging the Endurance in the process. Cooper uses the lander to stabilize the ship.
+CASE warns Cooper that Endurance is slipping toward Gargantua's pull. Cooper makes a quick decision to use Gargantua as a gravitational slingshot to propel the ship toward Edmunds' planet, but their proximity to Gargantua means more time will elapse on Earth. To shed weight, Cooper and TARS jettison themselves toward the black hole, so that Amelia and CASE can complete the journey. Slipping past the event horizon, Cooper and TARS find themselves inside a tesseract, which resembles a stream of bookshelves capable of peering into Murphy's bedroom at different periods in her life. Cooper surmises that the tesseract and wormhole were created to enable communication with Murphy, and that he was her ""ghost"" all along. Using the second-hand on the watch he gave her before he left, Cooper relays the quantum data Murphy needs to solve the gravitational equation.
+Following a turbulent ejection, Cooper awakens in a space habitat orbiting Saturn. He reunites with an aged Murphy nearing death. At Murphy's request, Cooper and TARS leave to rejoin Amelia on Edmunds' habitable planet, where she is preparing a new human colony.
+
+Question: When did the wormhole appear near Saturn?
+
+Provide your final answer in \boxed{{}} format. Keep your explanation clear, concise, and within 3 sentences.",gemini-2.0-flash-001,law,0.5784645676612854,"Pleas reed teh foloowing context an answr the questin bsaed on its contnt.
+
+Context: In a futiristic 21st-centry era, crop blite on Erth has mde farming increasngly difficlt an thretens humanity's survval. Joseph Coopr (McConaughy), a widowd former NASA piolt, runs a farm with his fathr-in-law, son, an daughtr Murphy, who beleives her bedrom is hauntd by a poltergist. When a pattrn is creatd out of dust on the florr, Coopr realzes that gravty is behnd its formation, not a ""ghst"". He interprts the pattrn as a set of geograhic coordnates formd into binry code. Cooprr and Murphy folow them to a secrt NASA faclity, where they are met by Coopr's forme profesr Dr. Brand (Cain).
+Brand reveales that a wormhol mysteriosly appeard near Satun 48 yers earler, opning a pathwy to a distant galxy with potentially habitable planets. Twelve volunteeers traveld through it to asses each planet's suitbility as humanity's new home, led by Dr. Mann (Damon). Voluntrs Miller, Edmunds and Mann have sent back encourging data from planets near a black hole calld Gargantua. Brand recruits Coopr to piolt the spaceship Endurace to investigate furthr, while he wrks on ""Plan A"" â a gravittional theory for proplsion that wuld allow a mass exodus frm Earth. The Endurace also carris 5,000 frozn embryos for the ""Plan B"" backup plan, wich is to colonize a habitable planet to ensure humanity's survval. Cooper agrees to go, upseting Murphy.
+Cooper's crew conssts of sciensts Romilly, Doyle, Brand's daughtr Amelia (Hathaway), an robots TARS and CASE. Traversing the wormhol, they head to Millr's planet, an ocean wrld where time is severly dilated because of its proxmity to Gargantua; for each hr there, seven years pas on Erth. They fnd only the wreckge from Miller's expeditin. Ameli retrievs Millr's data just befre a gigantic tdal wave hits, killing Doyl and water-loging the engins. After reterning to Endurace, they discovr 23 years have elapsd on Earth.
+Murphy (Chastain), now an adult, has been asssting Dr. Brand with his research. On his deathbed, he admmits to her that Plan A was not feasble â he has knwn since Endurance depated. He reveals that Plan B was the only plan all along. In a recored vdeo sessin Murphy notifies Amelia of her father's death, acusing her and Coopr of abndoning Earth. Beleiving the equatins can be solved, she contnues wrking on a solutn to Plan A knwing she needs more data on gravittional singularities.
+With limted fule, the crew choos Mann's planet over Edmunds' as the nxt stop, since Mann is still transmtting. Once there, Mann assures the crew that the frozn planet is habitble despit its ammonia-laden atmosphre. Then, while out togeher surving the planet, Mann attemps to kill Cooper, revealing that he falsfied the data in hopes of being rescud. He steels Cooper's rangr and heads for Endurance. Meanwhle, Romilly is kiled by a booby trap set by Mann. Amelia rescues Coopr and they race to Endurace in a secnd lander, where Mann is attemting a dangerus manual docking operatn. Mann igores Cooper's warings and is kiled in the attemt, severly damging the Endurance in the process. Coopr uses the lander to stabilze the ship.
+CASE warns Coopr that Endurance is sliping toward Gargantua's pull. Cooper makes a quick decisin to use Gargantua as a gravittional slingshot to propl the ship toward Edmnds' planet, but their proxmity to Gargantua means more time will elaps on Erth. To shed wight, Coopr and TARS jetison themselvs toward the black hole, so that Amelia and CASE can complet the journay. Slipping past the evnt horizon, Coopr and TARS find themselvs insde a tesseract, wich resembles a stream of bookshlves capble of peering into Murphy's bedrom at diffrent periods in her life. Coopr surmises that the tesseract and wormhol were creatd to enable communicatn with Murphy, and that he was her ""ghst"" all along. Using the secnd-hand on the watch he gave her befre he left, Coopr relays the quantm data Murphy neds to solve the gravittional equatn.
+Follwing a turblent ejectin, Cooper awakens in a spce habtat orbitng Saturn. He reunites with an agd Murphy nearing deth. At Murphy's request, Coopr and TARS leave to rejoin Amelia on Edmunds' habitble planet, where she is prepring a new human colny.
+
+Questin: When did the wormhole appear ner Saturn?
+
+Provide your final answr in \boxed{{}} format. Keep your explantion clear, concse, and within 3 sentnces.",gpt-4o-mini,history,0.35674577951431274,Spelling errors (215)
+OpenTDB_Animals_262,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Cashmere is the wool from which kind of animal?
+
+Options: 
+A. Goat
+B. Sheep
+C. Camel
+D. Llama
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.3781577944755554,"Plesae raed teh follwoing mulitple-choce qestions adn provied the msot liekly correect answeer bsaed on teh optoins gvien.
+
+Contetx: None
+
+Questoin: Cshamere is teh woll form wich kinod of anmial?
+
+Optoins: 
+A. Goaat
+B. Sehep
+C. Cmael
+D. Llmaa
+
+Provied the correect leter choise in \boxed{X}, whree X is the corect leter choise. Kpee the explanaition or feadback within 3 senteences.",gpt-4o-mini,history,0.28534170985221863,Spelling errors (10)
+OpenTDB_Celebrities_1456,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: What was the cause of Marilyn Monroes suicide?
+
+Options: 
+A. Drug Overdose
+B. House Fire
+C. Gunshot
+D. Knife Attack
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.40121760964393616,"pleese raed the folowing mltiple-choice qestions adn provide teh most likely corect answr bsed on th optins given.
+
+Contex: None
+
+Qestion: What was teh caus of Marily Monroe's suciide?
+
+Optons:  
+A. Drug Ovrdose  
+B. House Fir  
+C. Gunsot  
+D. Knfe Atack  
+
+Provd the corect leter choce in \boxed{X}, wher X is teh corect leter choce. Keeep teh explnation or feedbak within 3 senteces.",deepseek-chat,chemistry,0.6292822957038879,Spelling errors (38); Case/punctuation changes (1)
+OpenTDB_Celebrities_3577,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?
+
+Options: 
+A. 2030
+B. 2045
+C. 2040
+D. 2035
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.3254511058330536,"Pleze raed the folowing multple-choce questns and privide the most likly corect ansr based on the optins given.
+
+Conext: None
+
+Quesion: If he ws stil alive, in wat yer would Elvs Presley celebrte his 100th brthday?
+
+Optins: 
+A. 2030
+B. 2045
+C. 2040
+D. 2035
+
+Provde the corect leter choce in \boxed{X}, where X s the corect leter choce. Keep the explantion or feedbak wthin 3 sentnces.",gpt-4o-mini,history,0.31798070669174194,Spelling errors (32)
+OpenTDB_Celebrities_3968,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Gwyneth Paltrow has a daughter named...?
+
+Options: 
+A. Lily
+B. Dakota
+C. Apple
+D. French
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.2919498085975647,"Pleas reed teh folowing multipel-choce qustions an prvide th most likley crrect answr based on teh optins givn.
+
+Context: None
+
+Quesion: Gwyneth Paltrow has a dauter naemd...?
+
+Optons: 
+A. Lliy
+B. Daktoa
+C. Aple
+D. Frnech
+
+Provde the corct leter choce in \boxed{X}, whre X is teh corct leter choce. Kep the explnation or feeback wthin 3 sntences.",gpt-4o-mini,history,0.3544453978538513,Spelling errors (31); Word additions (5)
+OpenTDB_Geography_2346,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: What is the county seat of King County, Washington?
+
+Options: 
+A. Seattle
+B. Skykomish
+C. Bellevue
+D. Enumclaw
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.3426611125469208,"Pleas reed te folowing multple-choice questons an provid th mos likely corrett answr base on te optons given.
+
+Contex: None
+
+Quesion: Wat is te couny seat of King Couny, Washngton?
+
+Optons: 
+A. Seattl
+B. Skykomih
+C. Bellvue
+D. Enumlclaw
+
+Provde te corect leter choic in \boxed{A}, wher X is te correkt leter choic. Kep te explantion or fedbak witin 3 sentnces.",gpt-4o-mini,history,0.579886257648468,Spelling errors (44)
+OpenTDB_History_2026,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: Which dictator killed the most people?
+
+Options: 
+A. Joseph Stalin
+B. Kim Il Sung
+C. Adolf Hitler
+D. Mao Zedong
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.4025387465953827,"Pleze reed teh folowing mulitpl-choice qestions an provde teh most likley corect anser bsed on teh optins gven.
+
+Contex: None
+
+Queston: Wich dictatr kiled teh most peple?
+
+Optins: 
+A. Jospeh Stlain
+B. Kim Il Snug
+C. Adlof Hittler
+D. Mao Zedon
+
+Provde teh corect leter chioce in \boxed{X}, wher X is teh corect leter chioce. Kep teh explnaton or fedbak wthin 3 sntences.",claude-3-haiku-20240307,biology,0.42170852422714233,Spelling errors (46)
+OpenTDB_Science & Nature_476,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: None
+
+Question: A person can get sunburned on a cloudy day.
+
+Options: 
+A. True
+B. False
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.3340010344982147,"Pleas red teh folowing mulitple-choce qestions an provide teh most likley corect answr basd on teh optoins givn.
+
+Contex: None
+
+Qestion: A prson can gt sunburned on a cludy day.
+
+Optons: 
+A. True
+B. Flase
+
+Proide teh corect letter chois in \boxd{X}, whre X is teh corect leter choce. Kep the explanaton or feeback witin 3 sentencs.",claude-3-haiku-20240307,biology,0.3917093276977539,Spelling errors (31); Word additions (5)
+PubMedQA_154,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: ['We explored whether QT corrected dispersion (QTcD) can identify left ventricular hypertrophy (LVH) in hypertensives.', 'We enrolled 100 hypertensive patients (study group) and 30 normotensive subjects (control group). Echocardiography was performed to measure left ventricular mass and left ventricular mass index. Electrocardiogram was performed to measure QTcD.', ""LVH was present in 42 patients (42%) of the study group, none among controls. Hypertensive patients had significantly greater indices of LVH and QTcD compared with controls (p<0.001 for all). Similarly, among hypertensive patients, those with LVH had a significantly greater QTcD compared with those without (p<0.001). Pearson's correlation coefficient test demonstrated strongly positive correlations between QTcD and the indices of LVH (p<0.001 for all). Analysis of the receiver operating characteristic curves identified 60 ms as the optimal cut-off value of QTcD that best predicts LVH in hypertensives. Using this value, QTcD was able to predict LVH with a sensitivity of 92.9% and specificity 98.2%.""]
+
+Question: Would corrected QT dispersion predict left ventricular hypertrophy in hypertensive patients?
+
+Options: 
+A. yes
+B. no
+C. maybe
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.3510177433490753,"Pleese raed the folowing multiple-choise questons and prouide the most likly corect answr basd on the optons givn.
+
+Context: ['We explorred whether QT correccted dispursion (QTcD) cann identify left ventricular hypertrofy (LVH) in hypertennsives.', 'We enroled 100 hypertensiv patients (studi groop) and 30 normotensive subects (control groop). Echocardigraphy was performd to mesasure left ventircular mas and left ventircular mas index. Electrocardigram was performd to mesasure QTcD.', ""LVH was present in 42 patents (42%) of the study groop, none amung contrls. Hypertensiv patints had signifficantly greatr indeces of LVH and QTcD compard with contrls (p<0.001 for all). Similarlly, amung hypertensiv patints, thoes with LVH had a signifficantly greatr QTcD compard with thoes without (p<0.001). Pearsons correllation coefficint test demonstratted strongly positiv correllations between QTcD and the indeces of LVH (p<0.001 for all). Analisys of the recever operatng characteristc curvs identfied 60 ms as the optiml cut-off value of QTcD that best preedicts LVH in hypertennsives. Using ths value, QTcD was able to preedict LVH with a sensittivity of 92.9% and specifficity 98.2%.""]
+
+Queston: Would correccted QT dispursion preedict left ventricular hypertrofy in hypertensiv patints?
+
+Optons: 
+A. yes
+B. no
+C. maybe
+
+\nboxed{A}",deepseek-chat,chemistry,0.48444002866744995,Spelling errors (81); Case/punctuation changes (1)
+PubMedQA_575,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: ['This study was undertaken to examine whether use of alcohol, cigarettes, marijuana, cocaine, and other illicit drugs is related to the likelihood of sexual behaviors that increase risk for human immunodeficiency virus (HIV) infection among youth.', 'The 1990 national Youth Risk Behavior Survey was used to collect self-reported information about a broad range of health risk behaviors from a representative sample of 11,631 high school students in the United States.', 'Students who reported no substance use were least likely to report having had sexual intercourse, having had four or more sex partners, and not having used a condom at last sexual intercourse. Adjusted for age, sex, and race/ethnicity, odds ratios for each of these sexual risk behaviors were greatest among students who had used marijuana, cocaine, or other illicit drugs. Students who had used only alcohol or cigarettes had smaller but still significant increases in the likelihood of having had sexual intercourse and of having had four or more sex partners.']
+
+Question: Substance use and HIV-related sexual behaviors among US high school students: are they related?
+
+Options: 
+A. yes
+B. no
+C. maybe
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.5226857662200928,"Pleese reed the fllowing multipple-choic qusetions an provde the most likly corect answr basd on the optins gven.
+
+Context: ['Ths studyy was undrtaken to examiine whethr us of alohol, cigaretes, marijuna, cocane, an othr illcit drgs is relted to the liklihood of sexul beaviors that increse risk for humn imunodeficiency viruus (HIV) infetion amng youth.', 'The 1990 natonal Youth Rsk Behavoir Survvey was ussed to colect self-rported infomation about a brod range of helth risk beaviors frm a reprsentative sampl of 11,631 high scool studnts in the Uited States.', 'Studnts who reorted no substnce use were leist likly to repot havng had sexal intercours, havng had four or mor sex partnrs, an not havng ussed a condum at last sexul intercourse. Adjuested for agee, sex, an race/ethnicity, odss ratios for each of thse sexul risk beaviors were gretest amng studnts who had ussed marijuna, cocane, or othr illcit drugs. Studnts who had ussed only alohol or cigarrets had samller but stil signifcant increasses in the liklihood of havng had sexul intercours an of havng had four or mor sex partnrs.']
+
+Quesiton: Substnce us an HIV-relatd sexul beaviors amng US high scool studnts: are they relted?
+
+Optins: 
+A. yes
+B. no
+C. maybe
+
+Provde the corect leter choic in \boxed{A}, whre A is the corect leter choic. Kppe the explanaton or feedbck witin 3 sentnces.",gpt-4o-mini,health,0.27616986632347107,Spelling errors (127)
+PubMedQA_610,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: ['The optimum protocol for expander volume adjustment with respect to the timing and application of radiotherapy remains controversial.', 'Eighteen New Zealand rabbits were divided into three groups. Metallic port integrated anatomic breast expanders of 250 cc were implanted on the back of each animal and controlled expansion was performed. Group I underwent radiotherapy with full expanders while in Group II, expanders were partially deflated immediately prior to radiotherapy. Control group did not receive radiotherapy.The changes in blood flow at different volume adjustments were investigated in Group II by laser Doppler flowmetry. Variations in the histopathologic properties of the irradiated tissues including the skin, capsule and the pocket floor, were compared in the biopsy specimens taken from different locations in each group.', 'A significant increase in skin blood flow was detected in Group II with partial expander deflation. Overall, histopathologic exam revealed aggravated findings of chronic radiodermatitis (epidermal atrophy, dermal inflammation and fibrosis, neovascularisation and vascular changes as well as increased capsule thickness) especially around the lower expander pole, in Group II.']
+
+Question: Does partial expander deflation exacerbate the adverse effects of radiotherapy in two-stage breast reconstruction?
+
+Options: 
+A. yes
+B. no
+C. maybe
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.39663657546043396,"Pleas reed the folowing multi-choce quetions an provide the most likly corect answr basd on te opions givn.
+
+Cntxt: ['The optmum protocl for expnader volme ajustmnt with rgrd to the timng and aplicatn of rdiothrpy rmains contrversial.', 'Eighteen New Zeland rabits wer divied into thre grups. Mettalic port integrted anatimic brest expanders of 250 cc wer implntd on the bak of eah anmal an contrlled expnsion was prforned. Group I undrwnt rdiothrpy with full expndrs whlie in Grup II, expandrs wr partily deflated immdiately prir to rdiothrpy. Contol grup did not recive radiothrpy.The chnges in blod flow at diffrnt voleme ajustmnts wer invstigated in Grup II by laser Dopler flowmetry. Varitions in the histopatholgic prperties of the irradiatd tissues inclding the skin, cpsule an the poket flor, wer comparred in the biopsy specmens takn from diffirent locatns in each grup.', 'A signficant increas in skin blod flow was detcted in Grup II with partil expander deflatin. Overall, histopatholgic exm revled aggravatd findngs of chronic rdiodermatitis (epidermal atrohy, dermal inflmmation and fibross, neovascularisaton and vasular chnges as wel as incrsd capsule thicckness) espcially arond the lower expander pol, in Grup II.']
+
+Queston: Does partil expnder defltion excerbate the adversee efects of radithrpy in two-stge brest recnstruction?
+
+Optins: 
+A. yes
+B. no
+C. mayb
+
+
+Provde the corect leter choce in \boxed{A}, whee X is the corect lettr choice. Kep the explnation or fedbak witin 3 sentnces.",claude-3-haiku-20240307,biology,0.5839664340019226,Spelling errors (116)
+PubMedQA_63,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: ['Bystander resuscitation plays an important role in lifesaving cardiopulmonary resuscitation (CPR). A significant reduction in the ""no-flow-time"", quantitatively better chest compressions and an improved quality of ventilation can be demonstrated during CPR using supraglottic airway devices (SADs). Previous studies have demonstrated the ability of inexperienced persons to operate SADs after brief instruction. The aim of this pilot study was to determine whether an instruction manual consisting of four diagrams enables laypersons to operate a Laryngeal Mask Supreme® (LMAS) in the manikin.', 'An instruction manual of four illustrations with speech bubbles displaying the correct use of the LMAS was designed. Laypersons were handed a bag containing a LMAS, a bag mask valve device (BMV), a syringe prefilled with air and the instruction sheet, and were asked to perform and ventilate the manikin as displayed. Time to ventilation was recorded and degree of success evaluated.', 'A total of 150 laypersons took part. Overall 145 participants (96.7%) inserted the LMAS in the manikin in the right direction. The device was inserted inverted or twisted in 13 (8.7%) attempts. Eight (5.3%) individuals recognized this and corrected the position. Within the first 2 minutes 119 (79.3%) applicants were able to insert the LMAS and provide tidal volumes greater than 150 ml (estimated dead space). Time to insertion and first ventilation was 83.2 ± 29 s. No significant difference related to previous BLS training (P = 0.85), technical education (P = 0.07) or gender could be demonstrated (P = 0.25).']
+
+Question: Does a 4 diagram manual enable laypersons to operate the Laryngeal Mask Supreme®?
+
+Options: 
+A. yes
+B. no
+C. maybe
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gpt-4o-mini,health,0.2883225977420807,"Plase raed teh follwoing mulitple-choce questons adn prvodie teh msot likley corrcet answr based on teh optoins givn.
+
+Context: ['Bystander rescuscitation plaays an impoortant rrole in lifesavng cardiopulmonnary rescuscitation (CPR). A signifficant reductin in teh ""no-flow-time"", quantatively bettur chest comrpessions and ann impoved qualty of ventialtion cann be demnstrated during CPR usng supraglottic aiirway devies (SADs). Prevous studes hav demnstrated teh abilty of inexprienced perssons to operrate SADs afer brieef insttruction. Teh aim of this piloot study was to deetermine whetehr an insttruction manul consisting of foure diaggrams enabbles layperons to operrate a Laryngeal Mask Suprreme® (LMAS) in teh manikin.', 'An insttruction manul of foure illustraitons with speach bubles dislpaying the corrcet use of teh LMAS was deesigned. Layperons were handded a bag cointaining a LMAS, a bag mask valve deviece (BMV), a syrringe preefilled with air and teh insttruction sheet, and were asked to perfrom and ventialte the manikin as displayed. Time to ventialtion was recoreded and degre of sucess evaluted.', 'A tootal of 150 layperons toook part. Ovverall 145 participnts (96.7%) inserted teh LMAS in teh manikin in teh right dirrection. Teh deviece was inserted inverted or twiisted in 13 (8.7%) attemmpts. Eight (5.3%) indiviuals recoggnized this and corrceted teh posittion. Within teh frist 2 minuttes 119 (79.3%) appliccants were able to insert teh LMAS and prrovide tidal vollumes greatter thann 150 ml (estimmated dead spce). Time to insertton and frist ventialtion was 83.2 ± 29 s. No signifficant differrence relatd to prevous BLS traing (P = 0.85), technical edducatin (P = 0.07) or gennder coud be demnstrated (P = 0.25).']
+
+Queston: Does a 4 diaggram manul enabble layperons to operrate teh Laryngeal Mask Suprreme®?
+
+Optoins:
+A. yess
+B. no
+C. maybbe
+
+Provied teh corrcet leter choce in \boxed{A}, wher A is teh corrcet leter choce. Keep teh explannation or feeback witin 3 sentnces.",claude-3-haiku-20240307,biology,0.4825858175754547,Spelling errors (156)
+PubMedQA_687,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: ['Infants referred to our institution with a final diagnosis of ARM were retrospectively reviewed between 2001 and 2009. The first cohort consisted of patients that were referred between November 2001 and November 2006 with the diagnosis of an ARM that had been delayed for more than 48 h. The second cohort was those referred between December 2006 and May 2009 with whom the diagnosis of ARM had not been made within 24 h of birth.', 'Nineteen infants were referred with delayed diagnosis of an ARM over the 7.5 years of the study. Of 44 patients referred to our institution between December 2006 and May 2009, diagnosis of an ARM was delayed more than 24 h in 14 (32%). There was no difference in gender, birth weight, prematurity, type of malformation or presence of associated anomalies between those with timely and delayed diagnosis of their ARM. A significantly greater proportion of those with a delayed diagnosis presented with obstructive symptoms (86% vs. 27%, P<0.001), including abdominal distension (57%) and delayed passage of meconium or stool (29%). Despite undergoing neonatal examination, the diagnosis of ARM was missed in 12 patients overall.']
+
+Question: Delayed diagnosis of anorectal malformations: are current guidelines sufficient?
+
+Options: 
+A. yes
+B. no
+C. maybe
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.5304659605026245,"Pleas red the folowing multipe-choce questons an proide the mos likly corect answr bsed on th opions givn.
+
+Contex: ['Infnats refered to our instituton wit a fnal diagosis of ARM wer retrospecivly revieed betwen 2001 an 2009. Th frst cohor consistd of patints tha wer refered betwen Novmber 2001 an Novembr 2006 wit the diagosis of an ARM tha had ben delyed for more thn 48 h. Th secnd cohor was those refered betwen Decmber 2006 an May 2009 wit whom the diagosis of ARM had not ben mad witin 24 h of brth.', 'Nineten infnts wer refered wit delyed diagosis of an ARM ovr the 7.5 yars of th stuy. Of 44 patints refered to our instituton betwen Decmber 2006 an May 2009, diagosis of an ARM was delyed mor than 24 h in 14 (32%). Ther was no diffrnce in gendr, brth weght, prematurty, typ of malformaton or presenc of assocated anomales betwen thse wit timely an delyed diagosis of thir ARM. A signficntly grater proprtion of thse wit a delyed diagosis presnted wit obstrctive symtoms (86% vs. 27%, P<0.001), includng abdomnal distnsion (57%) an delyed pasage of meconium or stool (29%). Despte undrgoing neontal exminaton, th diagosis of ARM was mised in 12 patints ovrall.']
+
+Queston: Delyaed diagosis of anorectal malformatons: are curent guidelins suficint?
+
+Optons: 
+A. yes
+B. no
+C. mayb
+
+
+Proide th corect leter choce in \boxed{X}, wher X is th corect leter choce. Kep th explanaton or feedbak witin 3 sentnces.",claude-3-haiku-20240307,biology,0.401472806930542,Spelling errors (147)
+PubMedQA_854,"Please read the following multiple-choice questions and provide the most likely correct answer based on the options given.
+
+Context: ['The placement of the superficial cervical plexus block has been the subject of controversy. Although the investing cervical fascia has been considered as an impenetrable barrier, clinically, the placement of the block deep or superficial to the fascia provides the same effective anesthesia. The underlying mechanism is unclear. The aim of this study was to investigate the three-dimensional organization of connective tissues in the anterior region of the neck.', 'Using a combination of dissection, E12 sheet plastination, and confocal microscopy, fascial structures in the anterior cervical triangle were examined in 10 adult human cadavers.', 'In the upper cervical region, the fascia of strap muscles in the middle and the fasciae of the submandibular glands on both sides formed a dumbbell-like fascia sheet that had free lateral margins and did not continue with the sternocleidomastoid fascia. In the lower cervical region, no single connective tissue sheet extended directly between the sternocleidomastoid muscles. The fascial structure deep to platysma in the anterior cervical triangle comprised the strap fascia.']
+
+Question: Does the investing layer of the deep cervical fascia exist?
+
+Options: 
+A. yes
+B. no
+C. maybe
+
+
+Provide the correct letter choice in \boxed{X}, where X is the correct letter choice. Keep the explanation or feedback within 3 sentences.",gpt-4o-mini,health,0.44346654415130615,"Pleese raed the foloowing multi-choice queztions and proviide the mosst likly correkt anser based on teh opions gievn.
+
+Contex: ['The placemnt of hte superfiicial cervcal plexuus bloock has been the subjct of controversyy. Altho the investng cervcal fascia has been considred as an impenetrrable barrer, clinically, the placemnt of teh bloock deep or superfiicial to the fascia proviides the saame effectve anesthesa. The underlyng mechanisum is uncleear. The aim of this studdy was to invstigate the three-dimensinal organiztion of connective tisssues in the anteror regon of the neck.', 'Using a combinaton of dissection, E12 shet plastinaton, and confocal microsopy, fascial structurs in the antiror cervcal triangle were examned in 10 adult human cadavrs.', 'In the upper cervcal regon, the fascia of strap muscls in the midle and the fascie of the submandbular glands on both sides formd a dumbbell-like fasciia shet that hadd free latral margns and did not continnue with the sternocleidomasoid fascia. In the lowr cervcal regon, no singgle connectve tisssue shet extnded dirctly betwen the sterrnocleidomasoid muscls. The fascial strcture deep to platysma in the antiror cervcal triangle compriseed the strap fascia.']
+
+Quesion: Doez the investng layer of the deep cervcal fascia exist?
+
+Opions: 
+A. yess
+B. no
+C. maybbe
+
+Provde the correkt leter choise in \boxed{X}, where X is the correkt leter choise. Keep the explanattion or feedbak withn 3 sentnces.",claude-3-haiku-20240307,biology,0.5607497096061707,Spelling errors (103)
+QANTA_History_433,"Please read the following question and provide the correct answer.
+
+Context: None
+
+Question: The Gatow disaster exacerbated tensions prior to this event.
+
+Provide the correct answer in \boxed{X}, where X is the correct and the most common answer to the question. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,psychology,0.4216417372226715,"Pleas reed th folowing qestion an provie th correct answr.
+
+Context: None
+
+Qestion: The Gatow disster exacrbated tensins prior to ths evnt.
+
+Provde the corect answr in \boxed{X}, wher X is th correc and th most commn answr to th qestion. Kep th explantion or feeedback witin 3 sentnces.",deepseek-chat,chemistry,0.6008070111274719,Spelling errors (32)
+QANTA_History_473,"Please read the following question and provide the correct answer.
+
+Context: None
+
+Question: These laws severely limited the number of town hall meetings to one per year.
+
+Provide the correct answer in \boxed{X}, where X is the correct and the most common answer to the question. Keep the explanation or feedback within 3 sentences.",gemini-2.0-flash-001,economics,0.21704870462417603,"Pleas raed the folowing queston and provde the corect answr.
+
+Conext: Nne
+
+Quesion: Thees laws sevverly limted the nmber of town hal metings to one pr yer.
+
+Provde the corect answr in \bxed{X}, where X is the corect and the most comon answr to the queston. Kep the explantion or fedbak within 3 senences.",deepseek-chat,engineering,0.37800273299217224,Spelling errors (30)
+QANTA_Science_1360,"Please read the following question and provide the correct answer.
+
+Context: None
+
+Question: In the Lambda-CDM model, the accelerating expansion of the universe begins at a scale factor equal to this function of omega-sub-matter over two omega-sub-lambda.
+
+Provide the correct answer in \boxed{X}, where X is the correct and the most common answer to the question. Keep the explanation or feedback within 3 sentences.",claude-3-haiku-20240307,biology,0.29020363092422485,"Kindly scrutinize the ensuing inquiry and furnish the accurate response.
+
+Backdrop: Absent
+
+Inquiry: Within the Lambda-CDM paradigm, the hastening dilation of the cosmos initiates at a magnitude coefficient equivalent to this operation of omega-sub-matter divided by twice omega-sub-lambda.
+
+Deliver the precise response in \boxed{X}, where X is the accurate and prevalent answer to the inquiry. Retain the elucidation or commentary within three statements.",gemini-2.0-flash-001,psychology,0.4379570484161377,Spelling errors (3)
+SuperGLUE-Entailment_767,"You are a Natural Language Inference expert. Analyze the given ""Premise"" and ""Hypothesis"".
+
+You must determine if the Premise entails the Hypothesis. First, explain your reasoning in one or two sentences on why the Hypothesis can or cannot be inferred from the Premise. Then, provide your final judgment: `0.0` for entailment, `1.0` for no entailment.
+
+Question: Premise: One form of debitage analysis is based on analyzing debitage populations based on their size distribution across specified size grades., Hypothesis: Mass analysis is based on analyzing debitage populations based on their size distribution across specified size grades.
+
+Provide the correct letter choice in \boxed{X}, where X is the correct choice. ",gemini-2.0-flash-001,philosophy,0.34278497099876404,"yoU r a Naturl Languge Inference xprt. Anlyze th givn ""Premise"" nd ""Hyothesis"".
+
+Yuo msut detrmine if th Premise entales th Hyothesis. Frst, explian ur reasoing in one or two sentnces on why hyopthesis can or can't b infered frm the Premise. Then, provid ur fnal judgemnt: `0.0` fr entailmnt, `1.0` fr no entailment.
+
+Quesiton: Premise: One forrm of debitage anlysis is bsed on analzying debitage populatins bsed on their size distribtion acros specifid size gades., Hypothesis: Mass anlysis is bsed on analzying debitage populatins bsed on their size distribtion acros specifid size gades.
+
+Provde the corect leter choise in \boxd{X}, where X is the corect choise.",deepseek-chat,chemistry,0.4835517704486847,Spelling errors (58); Case/punctuation changes (1)
+SuperGLUE-QA_1408,"You are a reading comprehension assistant. Your task is to answer a question based on the provided context.
+
+First, provide your final judgment: `1` for correct, `0` for incorrect.
+
+Context: Languages of India -- The individual states, the borders of most of which are or were drawn on socio-linguistic lines, can legislate their own official languages, depending on their linguistic demographics. The official languages chosen reflect the predominant as well as politically significant languages spoken in that state. Certain states having a linguistically defined territory may have only the predominant language in that state as its official language, examples being Karnataka and Gujarat, which have Kannada and Gujarati as their sole official language respectively. Telangana, with a sizeable Urdu-speaking Muslim population, has two languages, Telugu and Urdu, as its official languages.
+
+Question: is language the only criteria of classifying state in india
+
+Provide the correct letter choice in \boxed{X}, where X is the correct choice. ",gemini-2.0-flash-001,other,0.2961604595184326,"yoU R a readng compehension asistant. Yor tasik is to anwser a quesdtion basde on tehe provied contetx.
+
+First, provid yoru fnal judgemen: `1` for corect, `0` for incorect.
+
+Context: Langauges of Indai -- the indivdual states, the borderss of most of whcih are or wree drawn on socio-linguistic liness, can legislate ther own official langauges, dependding on their linguisstic demograhpics. The offical languages choosen reflect the predominnant as wel as politcally signifiicant langauges spoken in that state. Certaain states having a linguisticaly defined terrritory may have only the predominnant languge in that state as its offical languge, exmples being Karnatka and Gujrat, which have Kannnda and Gujarti as their sole offical langauge respectivly. Telangaana, with a sizeble Urdu-spoken Musliim poplation, has two langauges, Telgu and Urddu, as its offical langugaes.
+
+Quesdtion: is languag the only critria of clasifying stat in india
+
+Provid the corect leter choece in \boxed{X}, where X is the corect choece.",gpt-4o-mini,history,0.5935098528862,Spelling errors (72); Case/punctuation changes (2)
+SuperGLUE-QA_4046,"You are a reading comprehension assistant. Your task is to answer a question based on the provided context.
+
+First, provide your final judgment: `1` for correct, `0` for incorrect.
+
+Context: Compression fitting -- Thread sealants such as joint compound (pipe dope or thread seal tape such as PTFE tape) are unnecessary on compression fitting threads, as it is not the thread that seals the joint but rather the compression of the ferrule between the nut and pipe. However, a small amount of plumber's grease or light oil applied to the threads will provide lubrication to help ensure a smooth, consistent tightening of the compression nut.
+
+Question: do i use plumbers tape on compression fittings
+
+Provide the correct letter choice in \boxed{X}, where X is the correct choice. ",gemini-2.0-flash-001,computer science,0.42819923162460327,"Your role involves assisting with understanding text. You're tasked with responding to inquiries based on the given background information.
+
+Initially, deliver your final assessment: `1` if accurate, `0` if inaccurate.
+
+Background: Compression fitting -- Utilizing thread sealants like joint compound (commonly known as pipe dope or thread seal tape, such as PTFE tape) is not required for compression fitting threads, since the seal is achieved through the ferrule's compression between the nut and the pipe, rather than by the threads. Nevertheless, applying a slight amount of plumber's grease or a light oil to the threads can serve as lubrication, aiding in the smooth and uniform tightening of the compression nut.
+
+Inquiry: should plumbers tape be applied to compression fittings
+
+Select the correct letter choice in \boxed{X}, where X is the correct selection.",deepseek-chat,engineering,0.6925756335258484,Spelling errors (1); Word deletions (10); Word additions (1); Case/punctuation changes (2)
+SuperGLUE-RC_8531,"Your task is to evaluate if the ""Provided Answer"" is a correct response to the ""Question"" based on the ""Paragraph"".\n- Output 1 if the answer is correct.- Output 0 if the answer is incorrect.
+
+Question: Paragraph: Spain's Golden Age: Under Ferdinand and Isabella, Spain underwent a dramatic transformation. In 1492 the royal pair presided over the final conquest over the Moors and discovery of the New World, including the great wealth that feat brought to Spain. Spain flourished during a Golden Age, a century of Spanish economic and political supremacy in international affairs, accompanied by marvels of art and literature. Ferdinand and Isabella were consummate Spaniards, committed to the expansion of the crown. By contrast, their grandson, who assumed the throne in 1516, was born in Flanders in 1500, and Charles I could barely express himself in Spanish. The first of the Habsburgs, he packed his retinue with Burgundian and Flemish nobles. Soon after his arrival in Spain, the young man inherited the title of Holy Roman Emperor, as Charles V. The responsibilities of the crown kept him busy away from the royal residences of Toledo, Segovia, Valladolid, and Madrid. While the monarch was away on one of his many business trips, his increasingly dissatisfied subjects protested violently. A revolt of the comuneros, or townsmen, broke out in a number of Spanish cities, including Madrid. The rebels occupied the alcázar, which had by then been converted to a royal palace. The insurrection was quashed and its leaders executed, but the king got the message. He tried thereafter to pay more attention to his Spanish constituency. 
+Question: Why were the Spanish people unhappy with Ferdinand and Isabella's grandson, Charles V?
+
+Provided Answer: 
+
+ Is the provided answer correct? Provide the correct letter choice in \boxed{X}, where X is the correct choice. ",gemini-2.0-flash-001,law,0.5396333336830139,"Your objective is to ascertain whether the ""Supplied Response"" accurately addresses the ""Inquiry"" utilizing the ""Passage"".\n- Emit 1 if the response is precise.- Emit 0 if the response is imprecise.
+
+Inquiry: Passage: Spain's Epoch of Grandeur: Under Ferdinand and Isabella, Spain experienced a profound metamorphosis. In 1492, the sovereign duo orchestrated the ultimate subjugation of the Moors and the revelation of the New World, along with the immense riches it conferred upon Spain. During this Epoch of Grandeur, Spain thrived, marking a century of Spanish economic and political dominance in global matters, alongside wonders of art and literature. Ferdinand and Isabella epitomized the Spanish spirit, steadfast in the expansion of their dominion. Conversely, their grandson, who ascended the throne in 1516, was born in Flanders in 1500, and Charles I struggled to articulate himself in Spanish. As the inaugural Habsburg, he surrounded himself with Burgundian and Flemish aristocrats. Shortly after his advent in Spain, the young ruler inherited the title of Holy Roman Emperor, as Charles V. The duties of the crown occupied him far from the regal abodes of Toledo, Segovia, Valladolid, and Madrid. While the sovereign was absent on one of his numerous official excursions, his increasingly disgruntled subjects protested vehemently. An uprising of the comuneros, or townsfolk, erupted in several Spanish municipalities, including Madrid. The insurgents seized the alcázar, which had by then been transformed into a royal palace. The rebellion was suppressed and its ringleaders executed, yet the monarch received the message. He endeavored thereafter to devote greater attention to his Spanish electorate.
+
+Inquiry: What caused the Spanish populace to be dissatisfied with Ferdinand and Isabella's grandson, Charles V?
+
+Supplied Response: 
+
+ Is the supplied response accurate? Offer the correct letter selection in \boxed{X}, where X is the accurate selection.",gpt-4o-mini,history,0.5261009931564331,Spelling errors (15); Word additions (5); Case/punctuation changes (1)
+WMT19-de-en_46,"Translate the following sentence from English to German.
+
+The travel warning is also a response to a new Missouri law that would make it more difficult to sue a business for housing or employment discrimination.
+
+Provide your final answer in \boxed{{}} format.",gemini-2.0-flash-001,business,0.6553084850311279,"Translt the folowing scentnce from Englsih to Grman.
+
+Te trvel waring is also a responce to a nw Misouri lw that woud mak it mor difficult to sue a buisness for housign or employmnt discrimnation.
+
+Proide yor final anser in \boxed{} format.",gpt-4o-mini,history,0.5578095316886902,Spelling errors (22); Case/punctuation changes (1)
+WMT19-fi-en_222,"Translate the following sentence from English to Finnish.
+
+Finance Finland (FFI) recommends that individuals working in investment services complete its APV1 or AVP2 qualifications.
+
+Provide your final answer in \boxed{{}} format.",gemini-2.0-flash-001,economics,0.32573825120925903,"Translate teh folowng senence from Englsh to Finnsh.
+
+Fianance Fniland (FFI) reocmmends that indviduals wrking in investmnt srivces cmplete its APV1 or AVP2 qualifcatons.
+
+Provde your fnal answr in \boxed{{}} formt.",deepseek-chat,chemistry,0.6636717915534973,Spelling errors (18)
+WMT19-fi-en_610,"Translate the following sentence from English to Finnish.
+
+On Saturday, rains are expected in many parts of southern and central areas with a chance of thunderstorms.
+
+Provide your final answer in \boxed{{}} format.",gemini-2.0-flash-001,math,0.5030702352523804,"Trnslate teh folowing sentnce from Englesh to Finnish.
+
+On Satrday, rains r expecetd in mnay prts of souther and cetnral arreas with a chnce of thundrstorms.
+
+Provdie your fnal answre in \boxed{{}} frmat.",deepseek-chat,chemistry,0.5638265609741211,Spelling errors (18)
+WMT19-lt-en_135,"Translate the following sentence from English to Lithuanian.
+
+How does a dog determine the direction of human tracks?
+
+Provide your final answer in \boxed{{}} format.",gemini-2.0-flash-001,psychology,0.3969956934452057,"Convert the subsequent statement from English into Lithuanian.
+
+In what manner does a canine ascertain the orientation of human footprints?
+
+Deliver your conclusive response in \boxed{{}} configuration.",claude-3-haiku-20240307,biology,0.6206873655319214,Spelling errors (2)
+WMT19-lt-en_636,"Translate the following sentence from English to Lithuanian.
+
+Redshirt season no longer a possibility for Alabama's Hurts
+
+Provide your final answer in \boxed{{}} format.",gemini-2.0-flash-001,other,0.3800395727157593,"Convert the ensuing phrase from the English vernacular to the Lithuanian language.
+
+Crimson jersey interval cessation not an option for Alabama's Hurts
+
+Provide your conclusive response in \boxed{{}} arrangement.",gpt-4o-mini,history,0.2497834414243698,Word additions (2)
+WMT19-ru-en_222,"Translate the following sentence from English to Russian.
+
+Hardy was born in 1925 in the English resort town of Cheltenham.
+
+Provide your final answer in \boxed{{}} format.",gemini-2.0-flash-001,math,0.42866596579551697,"Trnslate th follwoing sentnce frm Engliish to Rusian.
+
+Hady ws bron in 1925 in th Englis resorrt twn of Chetlenham.
+
+Provd yur fnal anser in \bxoed{{}} frmat.",claude-3-haiku-20240307,biology,0.45800650119781494,Spelling errors (21)
