@@ -1,15 +1,3 @@
 {
-  "arena_score": 0.702548646489404,
-  "accuracy": 0.6969861473850394,
-  "total_cost": 0.04497896999999998,
-  "avg_cost_per_query": 5.5598232385661284e-05,
-  "avg_cost_per_1000": 0.055598232385661285,
-  "num_queries": 809,
-  "optimality": {
-    "opt_sel": 0.8863636363636364,
-    "opt_cost": 0.8728297467975582,
-    "opt_acc": 1.0,
-    "queries_with_optimal_data": 528,
-    "num_sub10_queries": 809
-  }
+  "robustness_score": 0.8095238095238095
 }

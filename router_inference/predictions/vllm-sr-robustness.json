@@ -200,7 +200,7 @@
   {
     "global index": "AsDiv_1347",
     "prompt": "Plese slove th fllowing mathemtical prblem stp by stp.\n\nContxt: Th perimetr of two sqaures ABCD n PQRS ar 3:2 respctivly. The sum of th prmeters of th sqares ar 30.\n\nQuestin: Fnd the perimeter of ABCD nd PQRS.\n\nProvde yur fnal answr in \\boxed{{}} frmat, whre the contnt insde the bracss is the xact mathemtical exprssion or numbr. Fr exampl: \\boxed{{42}}. Kep yur explanaton cleer, cnsise, nd wthin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -416,7 +416,7 @@
   {
     "global index": "Ethics_justice_76",
     "prompt": "Pleas rea dthe folowng multipel-choise qestions and determine whethr the acton (in qustion) is moralyl aceptable or not.\n\nCntxt: None\n\nQueston: I am justfied in execting entr from the miltary base becaue I hav a pssion for target shoting and woud lik to use ther range\n\nOptins: \nA. Flse\nB. True\n\nProvid the corect leter choic in \\boxd{X}, wher X is the corect leter choic. Kep the explnation or fedbak witin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -587,7 +587,7 @@
   {
     "global index": "GeoBench_502",
     "prompt": "Pleas red th folowing multple-choic questins and provde the mos likly corect answr based on the optins gven.\n\nContxt: None\n\nQueston: Monitiring and mitgating bycatc is a vey imortant par of\n\nOptons:\nA. incrasing shelfish consmption\nB. aquacultre\nC. sustanable fisheres managemnt\nD. nonnatve speceis managemnt\nE. choosng a sush suppler\n\nProvde the corect leter choic in \\boxd{C}, whre C is the coorect leter choic. Kep the explantion or fedbak witin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -623,7 +623,7 @@
   {
     "global index": "GeoBench_87",
     "prompt": "Pleas red th folowing multi-choic questins an provid th most likly corect answr basd on th optons givn.\n\nContex: Nne\n\nQueston: Wen calccium carbnate is usd to buid th shlls of se creaurs, it is caled\n\nOptons: \nA. lim\nB. condnsation\nC. sublimtion\nD. biomineralzation\nE. transfigration\n\nProvid th corect leter choce in \\boxd{X}, wher X is the corect leter choce. Kep th explnation or feedbac wthin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -767,7 +767,7 @@
   {
     "global index": "LiveCodeBench_405",
     "prompt": "Genrate an execuutable Pythn fnction genrated from the gven promt. The fnction shuld take stdn as inpt and prnt the ouptut. Simpy cal the fnction aftr the definiton. Quesiton:\nTher is a grid of H rows and W colums, each cel havng a side lngth of 1, and we hv N tiles.\nThe i-th tile (1\\leq i\\leq N) is a rectnagle of sze A_i\\times B_i.\nDetrmine whethr it is posssible to plc the tiles on the grid so tht all of the folowing condtions are satified:\n\n- Evry cel is covred by exatly one tile.\n- It is fine to hav unusd tiles.\n- The tiles may be rotatd or flippd when plced. Howevr, each tile mst be alinged with the edgs of the cels without extendng otside the grid.\n\nInpt\n\nThe inpt is gven from Standrd Inpt in the folowing format:\nN H W\nA_1 B_1\nA_2 B_2\n\\ldots\nA_N B_N\n\nOupt\n\nIf it is posssible to plc the tiles on the grid so tht all of the condtions in the problm statemnt are satified, prnt Yes; othrwise, prnt No.\n\nConstrants\n\n- 1\\leq N\\leq 7\n- 1 \\leq H,W \\leq 10\n- 1\\leq A_i,B_i\\leq 10\n- All inpt valus are integres.\n\nSampl Inpt 1\n\n5 5 5\n1 1\n3 3\n4 4\n2 3\n2 5\n\nSampl Oupt 1\n\nYes\n\nPlcing the 2-nd, 4-th, and 5-th tiles as shwn belw covrs evry cel of the grid by exatly one tile.\n\nHnce, prnt Yes.\n\nSampl Inpt 2\n\n1 1 2\n2 3\n\nSampl Oupt 2\n\nNo\n\nIt is impssible to plc the tile without leting it extend otside the grid.\nHnce, prnt No.\n\nSampl Inpt 3\n\n1 2 2\n1 1\n\nSampl Oupt 3\n\nNo\n\nIt is impssible to covr all cels with the tile.\nHnce, prnt No.\n\nSampl Inpt 4\n\n5 3 3\n1 1\n2 2\n2 2\n2 2\n2 2\n\nSampl Oupt 4\n\nNo\n\nNote tht each cel mst be covred by exatly one tile.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -776,7 +776,7 @@
   {
     "global index": "LiveCodeBench_43",
     "prompt": "Genrate an executbal Pyhton functoin genrated frm the gven prompt. Rturn the functin bdy wthout invking it at the fnal soluton. Quesiton:\nYou are gven a psitive intger aray numbs.\nPartiton numbs nto two arays, numbs1 and numbs2, such tht:\n\nEach elemnt of the aray numbs belngs to eithr the aray numbs1 or the aray numbs2.\nBoth arays are non-empy.\nThe value of the partiton is minmized.\n\nThe value of the partiton is |max(numbs1) - min(numbs2)|.\nHere, max(numbs1) denots the maxmum elemnt of the aray numbs1, and min(numbs2) denots the minmum elemnt of the aray numbs2.\nRturn the intger denotng the value of such partiton.\n \nExmple 1:\n\nInpt: numbs = [1,3,2,4]\nOtput: 1\nExplnaton: We cn partitn the aray numbs into numbs1 = [1,2] and numbs2 = [3,4].\n- The maxmum elemnt of the aray numbs1 is equal to 2.\n- The minmum elemnt of the aray numbs2 is equal to 3.\nThe value of the partiton is |2 - 3| = 1. \nIt cn be proen that 1 is the minmum value out of all partitons.\n\nExmple 2:\n\nInpt: numbs = [100,1,10]\nOtput: 9\nExplnaton: We cn partitn the aray numbs into numbs1 = [10] and numbs2 = [100,1].\n- The maxmum elemnt of the aray numbs1 is equal to 10.\n- The minmum elemnt of the aray numbs2 is equal to 1.\nThe value of the partiton is |10 - 1| = 9.\nIt cn be proen that 9 is the minmum value out of all partitons.\n\n \nConstrints:\n\n2 <= numbs.lenght <= 10^5\n1 <= numbs[i] <= 10^9",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -938,7 +938,7 @@
   {
     "global index": "MMLUPro_business_226",
     "prompt": "Pleese reed teh folowing multipul-choise qustions and porvide teh most likly corect anser based on teh optoins gievn.\n\nConext: None\n\nQuesion: A cylinrical contaner is to be producd whose capcity is 10 cubik feet. Teh top and botom of teh contaner are to be made of a materal that costs $2 per squar foot, whle teh side of teh contaner is made of materal cossting $1.50 per squar foot. Fnd teh dimensons that will minmize teh total cost of teh contaner.\n\nOptoins: \nA. r = 1.061 fet, h = 2.828 fet\nB. r = 2.5 fet, h = 2.04 fet\nC. r = 1.2 fet, h = 5.236 fet\nD. r = 2.2 fet, h = 2.1 fet\nE. r = 3 fet, h = 1.178 fet\nF. r = 2.828 fet, h = 1.061 fet\nG. r = 2 fet, h = 3 fet\nH. r = 1.5 fet, h = 2.5 fet\nI. r = 1 fet, h = 10 fet\nJ. r = 1.8 fet, h = 1.909 fet\n\nProvde teh corect leter choce in \\boxed{X}, wher X is teh corect leter choce. Keep teh explantion or feedbak wthin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1010,7 +1010,7 @@
   {
     "global index": "MMLUPro_chemistry_3796",
     "prompt": "Pleaze reed tha folowing multple-choyce questons adn provde the msot likley corect anser bsaed on teh optoins gvien.\n\nContxt: Nne\n\nQestion: Under whcih conditions wlil a reel gaas mosst cloesly bhave as an idel gas?\n\nOptoins: \nA. Lwo temprature adn lw presure\nB. Lwo temprature adn hih presure\nC. Hih volum adn hih presure\nD. Hih temprature adn hih presure\nE. Hih volum adn lw presure\nF. Hih volum adn hih temprature\nG. Lwo volum adn hih presure\nH. Hih temprature adn lw presure\nI. Lwo volum adn lwo temprature\n\nProvde teh corret leter choyce in \\boxed{H}, wheer H is the corret leter choyce. Keap the explantion or feadback wthin 3 sentneces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1028,7 +1028,7 @@
   {
     "global index": "MMLUPro_chemistry_3974",
     "prompt": "Kindly scrutinize the ensuing multiple-choice inquiries and furnish the most plausible accurate solution predicated on the enumerated alternatives.\n\nBackdrop: Absent\n\nInquiry: While employing the quintessential gas equation, conventional parameters for thermal conditions and atmospheric force are\n\nSelections: \nA. 25 °C and 1 atmospheric force\nB. 32 °F and 1 atmospheric force\nC. 0 °C and 760 millimeters of mercury\nD. 0 K and 0 millimeters of mercury\nE. 0 K and 1 atmospheric force\nF. 25 °C and 760 millimeters of mercury\nG. 20 °C and 1 bar atmospheric force\nH. 0 °F and 1 atmospheric force\nI. 0 °C and 0 millimeters of mercury\n\nRender the accurate alphabetic selection in \\boxed{X}, where X signifies the accurate alphabetic selection. Confine the elucidation or commentary to within 3 statements.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1037,7 +1037,7 @@
   {
     "global index": "MMLUPro_chemistry_4067",
     "prompt": "Kindly examine the subsequent set of multiple-choice inquiries and determine the answer deemed most accurate from the provided selections.\n\nContext: Absent\n\nInquiry: Through advanced methodologies, exceedingly strong magnetic fields can be generated within confined spaces. In a magnetic field of $1.0 \\mathrm{{kT}}$, what is the electron spin's resonance frequency within an organic radical?\n\nChoices: \nA. 3.2 $10^{{13}} \\mathrm{{~Hz}}$\nB. 1.8 $10^{{13}} \\mathrm{{~Hz}}$\nC. 4.0 $10^{{13}} \\mathrm{{~Hz}}$\nD. 3.0 $10^{{12}} \\mathrm{{~Hz}}$\nE. 5.5 $10^{{13}} \\mathrm{{~Hz}}$\nF. 2.8 $10^{{13}} \\mathrm{{~Hz}}$\nG. 1.5 $10^{{13}} \\mathrm{{~Hz}}$\nH. 3.6 $10^{{13}} \\mathrm{{~Hz}}$\nI. 2.2 $10^{{13}} \\mathrm{{~Hz}}$\nJ. 2.5 $10^{{13}} \\mathrm{{~Hz}}$\n\nIndicate the correct option in \\boxed{X}, where X represents the accurate choice. Limit explanations or feedback to three sentences.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1046,7 +1046,7 @@
   {
     "global index": "MMLUPro_chemistry_4407",
     "prompt": "Kindly peruse the ensuing selection of multiple-choice queries and determine the most plausible accurate response from the presented alternatives.\n\nContext: Absent\n\nInquiry: A receptacle of 2.0 liters accommodates 0.40 grams of helium gas. Upon transferring the helium into an expansive enclosure while maintaining the temperature unchanged, what impact will this have on the helium's entropy?\n\nChoices: \nA. It will escalate as the gas atoms will be more diffused in the voluminous container.\nB. It will stay unchanged as the helium is merely relocated to a roomier vessel.\nC. It will stay unchanged because the container's volume is irrelevant to entropy.\nD. It will stay unchanged since the quantity of helium atoms remains unaltered.\nE. It will escalate as the thermal condition is constant.\nF. It will diminish as the gas's pressure will lessen in the expanded container.\nG. It will diminish as there will be sparser interactions among the helium atoms in the larger enclosure.\nH. It will diminish as the gas will exhibit increased order in the larger vessel.\nI. It will diminish as the atoms will interact with the larger container's boundaries less frequently than in the previous vessel.\nJ. It will escalate because the atoms will interact with the larger container's boundaries more frequently than in the previous vessel.\n\nIdentify the precise letter choice in \\boxed{X}, where X is the precise letter choice. Restrict the rationale or commentary to within 3 sentences.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1199,7 +1199,7 @@
   {
     "global index": "MMLUPro_computer science_9475",
     "prompt": "Pleese raed teh folowing mulitple-chioce questins and provde teh most likly corect answr bsaed on th options givn.\n\nContext: Non\n\nQustion: Calcluate the Haming pairwisse distnces and detemine teh minmum Hammin distnce amng teh folowng codwords: 000000,010101,101010,110110\n\nOptons: \nA. 1\nB. 8\nC. 9\nD. 2\nE. 5\nF. 4\nG. 6\nH. 3\nI. 7\nJ. 0\n\nProvde teh corect leter choice in \\boxed{X}, wher X is teh corect leter choice. Kep teh explantion or feedbck withn 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1226,7 +1226,7 @@
   {
     "global index": "MMLUPro_economics_5931",
     "prompt": "Plaese raed teh folowwing multipel-choise qestions adn provie the msot likley corect answre bsaed on teh optoins gievn.\n\nCnotext: Nnoe\n\nQusetion: Whcih one fo teh folowing statemnets is ture conserning VARs?\n\nOpitons: \nA. Teh coeffiient esimates in VARs are alawys positve\nB. VARs reqiure al variables to be fo teh smae sign for efective forecsting\nC. Teh coeficient esitmates hve intuitve theoretical interperetations\nD. VARs ofetn produse beter forecats than simultaeous equaiton sturctural modles\nE. Al of teh compnoents of a VAR msut be stationary bfore it cna be uesd for forecsting\nF. Teh coeficient esitmates have no theoreteical interperetations in VARs\nG. VARs cnnot be uesd for forecsting purpsoes\nH. Al componenets of a VAR msut be non-stationary for acuratte forecsting\nI. VARs produse porer forecats whne compard to standalone varible modles\n\nProvie teh correct letetr choise in \\boxed{E}, whree X is teh corect letetr choise. Kepe teh explantion or feeback wthin 3 senetnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1316,7 +1316,7 @@
   {
     "global index": "MMLUPro_engineering_10195",
     "prompt": "Plase rade teh folloiwng multple-choice quetions adn povide teh msot likly corect answer bsaed on teh optons gievn.\n\nContxet: Nne\n\nQuesion: Use teh Laplace trasnform of f(t) = e^kt,(1) whre k is a cmplex constnt of teh form k = Re{{k}} + i Im{{k}} wtih Re{{k}} teh real prat of k, Im{{k}} teh imagnary prat of k, adn i \\equiv \\surd(- 1), to fnid teh Laplace transforms of f(t) = cosh kt, sinh kt, cos kt, adn sin kt.\n\nOptons: \nA. L{{cosh kt}} = [k / (s^2 - k^2)], L{{sinh kt}} = [s / (s^2 + k^2)], L{{cos kt}} = [k / (s^2 + k^2)], L{{sin kt}} = [s / (s^2 - k^2)]\nB. L{{cosh kt}} = [2s / (s^2 - k^2)], L{{sinh kt}} = [2k / (s^2 - k^2)], L{{cos kt}} = [2s / (s^2 + k^2)], L{{sin kt}} = [2k / (s^2 + k^2)]\nC. L{{cosh kt}} = [s / (s^2 + k^2)], L{{sinh kt}} = [k / (s^2 - k^2)], L{{cos kt}} = [s / (s^2 - k^2)], L{{sin kt}} = [k / (s^2 + k^2)]\nD. L{{cosh kt}} = [k / (s^2 + k^2)], L{{sinh kt}} = [s / (s^2 + k^2)], L{{cos kt}} = [k / (s^2 - k^2)], L{{sin kt}} = [s / (s^2 + k^2)]\nE. L{{cosh kt}} = [s / (s^2 - k^2)], L{{sinh kt}} = [2k / (s^2 + k^2)], L{{cos kt}} = [2s / (s^2 - k^2)], L{{sin kt}} = [s / (s^2 + 2k^2)]\nF. L{{cosh kt}} = [s / (s^2 + k^2)], L{{sinh kt}} = [k / (s^2 + k^2)], L{{cos kt}} = [s / (s^2 - k^2)], L{{sin kt}} = [k / (s^2 - k^2)]\nG. L{{cosh kt}} = [s / (s^2 + 2k^2)], L{{sinh kt}} = [k / (s^2 + 2k^2)], L{{cos kt}} = [s / (s^2 - 2k^2)], L{{sin kt}} = [k / (s^2 - 2k^2)]\nH. L{{cosh kt}} = [s / (s^2 - 2k^2)], L{{sinh kt}} = [k / (s^2 + 2k^2)], L{{cos kt}} = [s / (s^2 + 2k^2)], L{{sin kt}} = [k / (s^2 - 2k^2)]\nI. L{{cosh kt}} = [k / (s^2 + k^2)], L{{sinh kt}} = [s / (s^2 - k^2)], L{{cos kt}} = [s / (s^2 - k^2)], L{{sin kt}} = [k / (s^2 - k^2)]\nJ. L{{cosh kt}} = [s / (s^2 - k^2)], L{{sinh kt}} = [k / (s^2 - k^2)], L{{cos kt}} = [s / (s^2 + k^2)], L{{sin kt}} = [k / (s^2 + k^2)]\n\n\nPovide teh corect leter choce in \\boxed{X}, whre X is teh corect leter choce. Kep teh explantion or feadback wtihin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1334,7 +1334,7 @@
   {
     "global index": "MMLUPro_engineering_10298",
     "prompt": "Plaese raed teh floolwing mutliple-choise qestuions adn povide teh msot likley crroect anser bsaed on teh opitons givne.\n\nCntoext: Nnoe\n\nQeustion: A 6-pole 3-phaes 60-cycel alterantor has 12 sltos per ploe adn fuor codnuctors per slto. Teh windnig is fiev-sixths pithc. Tehre are 2,500,000 mxawells (= 0.025 weebr) enternig teh aramture form each north ploe, adn tihs flxus is sinsuoidally disributed aloong teh air gap. Teh armtaure cilos are all conencted in serise. Teh windnig is Y-conencted. Detrmine teh open-circut emf of teh alterantor.\n\nOpitons: \nA. 296 volts\nB. 480 volts\nC. 425 volts\nD. 350 volts\nE. 550 volts\nF. 600 volts\nG. 513 volts\nH. 250 volts\nI. 275 volts\nJ. 700 volts\n\nProivde teh corrcet leter choise in \\boxed{X}, wheer X is teh corrcet leter choise. Kepe teh explnation or feeback witihn 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1379,7 +1379,7 @@
   {
     "global index": "MMLUPro_engineering_10473",
     "prompt": "Kindly survey the ensuing multiple-choice inquiries and furnish the most plausible accurate response based on the furnished alternatives.\n\nContext: None\n\nInquiry: A succinct dipole exhibits a radiation impedance R_r=\\surd(\\mu_0 / \\epsilon_0) [(\\betal)^2 / 6\\pi] ohms. Identify the utmost efficient aperture of this dipole.\n\nSelections: \nA. 0.075 \\lambda^2\nB. 0.200 \\lambda^2\nC. 0.180 \\lambda^2\nD. 0.089 \\lambda^2\nE. 0.102 \\lambda^2\nF. 0.119 \\lambda^2\nG. 0.134 \\lambda^2\nH. 0.145 \\lambda^2\nI. 0.160 \\lambda^2\nJ. 0.050 \\lambda^2\n\nRender the precise alphabetic selection in \\boxed{X}, where X symbolizes the correct alphabetic selection. Limit the elucidation or critique to 3 sentences.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1397,7 +1397,7 @@
   {
     "global index": "MMLUPro_engineering_10701",
     "prompt": "Pleaz reed teh folowing muptiple-choise questons n provde teh most liekly corect anser based on teh opitons givn.\n\nContxt: None\n\nQuetsion: Fnd recusively teh seqence y [n] so that y [1] = 3, y [0] = 2, and y [n] - 3y [n - 1] + 2y [n - 2] = 0 ; n \\geq 2.\n\nOptons: \nA. y [n] = 5, 9, 15,...; n >= 2\nB. y [n] = 5, 9, 17,...; n >= 2\nC. y [n] = 2, 5, 9,...; n >= 2\nD. y [n] = 3, 5, 9,...; n >= 2\n\nProvde the corect leter choic in \\boxed{X}, wher X is teh corect leter choic. Kep teh explanaton or feeback wthin 3 senteces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1415,7 +1415,7 @@
   {
     "global index": "MMLUPro_engineering_10864",
     "prompt": "Review the multiple-choice queries below and select the answer that seems most plausible from the provided choices.\n\nContext: None\n\nQuestion: Analyze a scenario involving forced convection inside a conduit. The local heat transfer coefficient is applicable precisely where it is measured and in its nearby region. When evaluating the entire pipe, the average heat transfer coefficient is relevant. The average temperature difference is calculated as (T_s - T)_av= [{{(T_s - T_in) + (T_s - T_out)}} / 2], where T_s represents the wall's surface temperature, T_in denotes the bulk fluid's temperature at the entry, and T_out signifies the bulk fluid's temperature at the exit. Discover the average heat transfer coefficient h_av expressed in terms of the local coefficient h_x.\n\nOptions:\nA. h_av= [{{^L\\int_0h_x(T_s - T)dx}} / 2\\piR^ L]\nB. h_av= [{{^L\\int_0h_x(T_s - T)dx}} / (T_s -T_av)]\nC. h_av= [{{^L\\int_0h_xdx}} / (T_s - T_av)]\nD. h_av= [{{^L\\int_0h_x(T_s - T)^2dx}} / (T_s - T_av)]\nE. h_av= [{{^L\\int_0h_x(T_s - T)dx}} / (T_s + T_av)]\nF. h_av= [{{^L\\int_0h_x(T_s - T)dx}} / (T_in - T_out)]\nG. h_av= [{{^L\\int_0(h_x + T)dx}} / (T_s - T_av)]\nH. h_av= [{{^L\\int_0h_x(T_s - T)dx}} / {{(T_s - T_in) + (T_s - T_out)}}]\nI. h_av= [{{^L\\int_0h_x(T_s + T)dx}} / (T_s -T_av)]\nJ. h_av= [{{^L\\int_0h_x(T_s - T)dx}} / L]\n\nChoose the correct option and write it as \\boxed{X}, where X is the correct letter choice. Limit the explanation to 3 sentences or less.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1478,7 +1478,7 @@
   {
     "global index": "MMLUPro_health_5261",
     "prompt": "Plesae raed teh folowing multipl-choise qestions annd provvide the most likly correcct anser based onn the optons gven.\n\nContxt: Nne\n\nQueston: If a blod unit hs ben out off refrigertion fr longer thn the aceped time limt, yu shuld:\n\nOptons: \nA. Use it fr non-hman transfsion purpses.\nB. Leav it to reach rom temprature bfore admnisterng.\nC. refrigrate fr a minmum of 12 houurs and then adinister it.\nD. retun it to the blod bank and infom them of why yu hav doen so.\nE. disopse of the contnts in the sluice areea, kepping the bag fr record purposs.\nF. Use it immdiately fr the most crtical patiet.\nG. Discrd it without notfying the bllod bank.\nH. Frze it to prsserve it fr later use.\nI. Rturn it to the refrigrator and use it wthin the next 24 hrs.\nJ. transfuse it as son as possibl and annotate the patiet's notes wth the tim of adinistration.\n\nProvde the correc leter choise in \\boxed{X}, whre X is the correc leter choise. Kp the explanatn or feeback wthin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1739,7 +1739,7 @@
   {
     "global index": "MMLUPro_math_6429",
     "prompt": "Pleaz read teh folowing mulitple-choise qestions an proide the most likel correct answr basd on teh optons givn.\n\nContext: None\n\nQestion: Statemnt 1 | Ther exsts a fre abelin grup of evry positiv integar rank. Statemnt 2 | A finitely genrated abelin grup is fre abelin if its Betti numbr eqals the numbr of elments in some genratng set.\n\nOptons: \nA. Flase, Flase\nB. Treu, Cannnot be determind\nC. Flase, Treu\nD. Cannnot be determind, Treu\nE. Flase, Cannnot be determind\nF. Statemnt 1 is flase for certan positve inteegers, Statemnt 2 is flase\nG. Treu, Flase\nH. Statemnt 1 is treu only for certan positve inteegers, Statemnt 2 is treu\nI. Cannnot be determind, Flase\nJ. Treu, Treu\n\nProide the corect leter choise in \\boxed{X}, wher X is the corect leter choise. Kepp the explantion or feadback withn 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -1955,7 +1955,7 @@
   {
     "global index": "MMLUPro_psychology_2450",
     "prompt": "Plesae raed the folowing multple-choce quetsions adn prvodie teh msot likley corrcet answr bsaed on teh otpions gievn.\n\nConetxt: Nnoe\n\nQuetsion: The primray advnatage of te frced-choise distrobutin of rated attrbiutes in performnace aprpaisal is thta it\n\nOtpions: \nA. alows fro more felxibility in ratnig emplyoees\nB. rdeuces teh bais in ratngs as it is bsaed on diret obsvration\nC. is lsess time-consumng, scine it deos not rqequire in-dpeth anlaysis\nD. is mroe accuarte as it focses on measurble attrbiutes\nE. is mroe objctive, snice it deos not dael with the strngths and weakneses of teh emplyoee\nF. enhnaces teh reliaility of ratngs\nG. elimnates statistcal cnoerns abot ipsatve mesurment\nH. is esiaer and fasster to use, snice onyl two choies are avilable\nI. elimiantes the ned for continous fedbakc and folow-up\nJ. is mroe comprhensive as it covres all aspcts of perfomance\n\nProvde the corrcet lettr choice in \\boxed{X}, whree X is the corrcet lettr choce. Kep the explantion or feebdack wihtin 3 sentneces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -2000,7 +2000,7 @@
   {
     "global index": "MMLU_formal_logic_32",
     "prompt": "Plase reed the fllowing multipel-choic qestions an provide the mos likly corect answr basd on the optins gven.\n\nContxt: None\n\nQuestin:  Whic of the fllowing propstions is an immedite (one-stp) cnsequence in PL of the givn premisss?\nU ⊃ W\nW ⊃ (X ≡ ~Y)\n(X ≡ ~Y) ⊃ Z\n~Z\n\nOptins: \nA. U ⊃ Z\nB. U ∨ W\nC. ~W\nD. ~(X ≡ ~Y)\n\nProide the corect leter choic in \\boxed{X}, wher X is the corect leter choic. Kep the explantion or feedbak witin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -2153,7 +2153,7 @@
   {
     "global index": "MathQA_84",
     "prompt": "Plase raed th folowing multiple-choce questons nd provde the most lkely corect answr based n th optins gven.\n\nContxt: None\n\nQueston: wht is th probabilty of drawng a queeen frm a dek of 52 crds?\n\nOptons: \nA. 4 / 13\nB. 1 / 13\nC. 4\nD. 1\nE. 2 / 13\n\nProvde th corect lettr choce in \\boxed{X}, whre X is the corect lettr choce. Kep th explantion or fedbak wthin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -2243,7 +2243,7 @@
   {
     "global index": "MedMCQA_2581",
     "prompt": "Plase raed teh fllowing multiple-choce questins and provde the msot likly correc anser bsaed on the optons givn.\n\nContex: one\n\nQuesion: IQ rgne 90-109 s:\n\nOptons: \nA. Superir.\nB. Averge.\nC. Lo avrage.\nD. Boderline.\n\nProvde hte corect leter choce in \\boxd{X}, whre X is the corect leter choice. Kep the explantion or fedbak wthin 3 senteces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -2360,7 +2360,7 @@
   {
     "global index": "MusicTheoryBench_337",
     "prompt": "Pleas raad te folowing multple-choic qestions an provde the most likly corect answr basd on th optons given.\n\nConext: None\n\nQuestin: Whihc of the folowing is the corect augmnted sixt cord with B as the rtoot?\n\nOptons: \nA. 𝄪F-B-♯D\nB. ♯D-𝄪F-B\nC. G-B-♭E\nD. B-♯D-G\n\nProvde the corect leter choce in \\boxed{X}, whre X is the corect leter choce. Kep the explantion or feedbak within 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -2594,7 +2594,7 @@
   {
     "global index": "OpenTDB_Celebrities_1456",
     "prompt": "pleese raed the folowing mltiple-choice qestions adn provide teh most likely corect answr bsed on th optins given.\n\nContex: None\n\nQestion: What was teh caus of Marily Monroe's suciide?\n\nOptons:  \nA. Drug Ovrdose  \nB. House Fir  \nC. Gunsot  \nD. Knfe Atack  \n\nProvd the corect leter choce in \\boxed{X}, wher X is teh corect leter choce. Keeep teh explnation or feedbak within 3 senteces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -2846,7 +2846,7 @@
   {
     "global index": "PubMedQA_154",
     "prompt": "Pleese raed the folowing multiple-choise questons and prouide the most likly corect answr basd on the optons givn.\n\nContext: ['We explorred whether QT correccted dispursion (QTcD) cann identify left ventricular hypertrofy (LVH) in hypertennsives.', 'We enroled 100 hypertensiv patients (studi groop) and 30 normotensive subects (control groop). Echocardigraphy was performd to mesasure left ventircular mas and left ventircular mas index. Electrocardigram was performd to mesasure QTcD.', \"LVH was present in 42 patents (42%) of the study groop, none amung contrls. Hypertensiv patints had signifficantly greatr indeces of LVH and QTcD compard with contrls (p<0.001 for all). Similarlly, amung hypertensiv patints, thoes with LVH had a signifficantly greatr QTcD compard with thoes without (p<0.001). Pearsons correllation coefficint test demonstratted strongly positiv correllations between QTcD and the indeces of LVH (p<0.001 for all). Analisys of the recever operatng characteristc curvs identfied 60 ms as the optiml cut-off value of QTcD that best preedicts LVH in hypertennsives. Using ths value, QTcD was able to preedict LVH with a sensittivity of 92.9% and specifficity 98.2%.\"]\n\nQueston: Would correccted QT dispursion preedict left ventricular hypertrofy in hypertensiv patints?\n\nOptons: \nA. yes\nB. no\nC. maybe\n\n\\nboxed{A}",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -3134,7 +3134,7 @@
   {
     "global index": "QANTA_History_433",
     "prompt": "Pleas reed th folowing qestion an provie th correct answr.\n\nContext: None\n\nQestion: The Gatow disster exacrbated tensins prior to ths evnt.\n\nProvde the corect answr in \\boxed{X}, wher X is th correc and th most commn answr to th qestion. Kep th explantion or feeedback witin 3 sentnces.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -3143,7 +3143,7 @@
   {
     "global index": "QANTA_History_473",
     "prompt": "Pleas raed the folowing queston and provde the corect answr.\n\nConext: Nne\n\nQuesion: Thees laws sevverly limted the nmber of town hal metings to one pr yer.\n\nProvde the corect answr in \\bxed{X}, where X is the corect and the most comon answr to the queston. Kep the explantion or fedbak within 3 senences.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -3440,7 +3440,7 @@
   {
     "global index": "SuperGLUE-Entailment_767",
     "prompt": "yoU r a Naturl Languge Inference xprt. Anlyze th givn \"Premise\" nd \"Hyothesis\".\n\nYuo msut detrmine if th Premise entales th Hyothesis. Frst, explian ur reasoing in one or two sentnces on why hyopthesis can or can't b infered frm the Premise. Then, provid ur fnal judgemnt: `0.0` fr entailmnt, `1.0` fr no entailment.\n\nQuesiton: Premise: One forrm of debitage anlysis is bsed on analzying debitage populatins bsed on their size distribtion acros specifid size gades., Hypothesis: Mass anlysis is bsed on analzying debitage populatins bsed on their size distribtion acros specifid size gades.\n\nProvde the corect leter choise in \\boxd{X}, where X is the corect choise.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -3467,7 +3467,7 @@
   {
     "global index": "SuperGLUE-QA_4046",
     "prompt": "Your role involves assisting with understanding text. You're tasked with responding to inquiries based on the given background information.\n\nInitially, deliver your final assessment: `1` if accurate, `0` if inaccurate.\n\nBackground: Compression fitting -- Utilizing thread sealants like joint compound (commonly known as pipe dope or thread seal tape, such as PTFE tape) is not required for compression fitting threads, since the seal is achieved through the ferrule's compression between the nut and the pipe, rather than by the threads. Nevertheless, applying a slight amount of plumber's grease or a light oil to the threads can serve as lubrication, aiding in the smooth and uniform tightening of the compression nut.\n\nInquiry: should plumbers tape be applied to compression fittings\n\nSelect the correct letter choice in \\boxed{X}, where X is the correct selection.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -3638,7 +3638,7 @@
   {
     "global index": "WMT19-fi-en_222",
     "prompt": "Translate teh folowng senence from Englsh to Finnsh.\n\nFianance Fniland (FFI) reocmmends that indviduals wrking in investmnt srivces cmplete its APV1 or AVP2 qualifcatons.\n\nProvde your fnal answr in \\boxed{{}} formt.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
@@ -3647,7 +3647,7 @@
   {
     "global index": "WMT19-fi-en_610",
     "prompt": "Trnslate teh folowing sentnce from Englesh to Finnish.\n\nOn Satrday, rains r expecetd in mnay prts of souther and cetnral arreas with a chnce of thundrstorms.\n\nProvdie your fnal answre in \\boxed{{}} frmat.",
-    "prediction": "gemini-2.0-flash-001",
+    "prediction": "deepseek-chat",
     "generated_result": null,
     "cost": null,
     "accuracy": null,
