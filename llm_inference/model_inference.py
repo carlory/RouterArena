@@ -315,7 +315,7 @@ class ModelInference:
         """Call OpenAI API."""
         import openai
 
-        client = openai.OpenAI(api_key=self.openai_api_key)
+        client = openai.OpenAI(api_key=self.openai_api_key, base_url="https://aihubmix.com/v1")
 
         response = client.chat.completions.create(
             model=model_name.replace("openai/", ""),

@@ -1,0 +1,8 @@
+{
+    "pipeline_params": {
+        "router_name": "gpt-4-turbo",
+        "models": [
+            "gpt-4-turbo"
+        ]
+    }
+  }
