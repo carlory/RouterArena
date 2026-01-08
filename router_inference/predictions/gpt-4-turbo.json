@@ -14,8 +14,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025900000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -33,8 +33,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0024600000000000004,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -52,8 +52,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00227,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -71,8 +71,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00294,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -90,8 +90,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030900000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -109,8 +109,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00268,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -128,8 +128,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00272,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -147,8 +147,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00269,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -166,8 +166,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00221,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -185,8 +185,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029100000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -204,8 +204,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00324,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -223,8 +223,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0026100000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -242,8 +242,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023899999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -261,8 +261,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025599999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -280,8 +280,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00287,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -299,8 +299,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00236,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -318,8 +318,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00267,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -337,8 +337,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00244,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -356,8 +356,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00196,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -375,8 +375,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00227,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -394,8 +394,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025399999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -413,8 +413,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00243,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -432,8 +432,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00268,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -451,8 +451,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00275,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -470,8 +470,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -489,8 +489,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -508,8 +508,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00317,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -527,8 +527,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00277,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -546,8 +546,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00248,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -565,8 +565,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030600000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -584,8 +584,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029100000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -603,8 +603,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00285,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -622,8 +622,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -641,8 +641,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00298,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -660,8 +660,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00349,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -679,8 +679,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -698,8 +698,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004869999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -717,8 +717,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00244,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -736,8 +736,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029300000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -755,8 +755,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00706,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -774,8 +774,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.02206,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -793,8 +793,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00556,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -812,8 +812,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.03306,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -831,8 +831,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0223,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -850,8 +850,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.03732,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -869,8 +869,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01449,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -888,8 +888,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01696,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -907,8 +907,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.011359999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -926,8 +926,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01154,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -945,8 +945,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01107,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -964,8 +964,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01023,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -983,8 +983,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0064399999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1002,8 +1002,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.043250000000000004,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1021,8 +1021,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00845,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1040,8 +1040,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.012150000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1059,8 +1059,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01507,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1078,8 +1078,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.009750000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1097,8 +1097,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01165,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1116,8 +1116,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005690000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1135,8 +1135,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00473,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1154,8 +1154,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00911,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1173,8 +1173,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.012410000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1192,8 +1192,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01857,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1211,8 +1211,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01098,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1230,8 +1230,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00799,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1249,8 +1249,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00702,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1268,8 +1268,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.02464,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1287,8 +1287,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0074,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1306,8 +1306,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01813,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1325,8 +1325,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00941,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1344,8 +1344,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.007769999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1363,8 +1363,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00903,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1382,8 +1382,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00514,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1401,8 +1401,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.02427,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1420,8 +1420,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00587,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1439,8 +1439,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.009479999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1458,8 +1458,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00904,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1477,8 +1477,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029100000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1496,8 +1496,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00337,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1515,8 +1515,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00294,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1534,8 +1534,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00345,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1553,8 +1553,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00265,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1572,8 +1572,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00301,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1591,8 +1591,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00365,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1610,8 +1610,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00442,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1629,8 +1629,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00383,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1648,8 +1648,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0051400000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1667,8 +1667,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00381,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1686,8 +1686,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00584,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1705,8 +1705,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.009760000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1724,8 +1724,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00367,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1743,8 +1743,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0043,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1762,8 +1762,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032899999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1781,8 +1781,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00853,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1800,8 +1800,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00308,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1819,8 +1819,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0067,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1838,8 +1838,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0051199999999999996,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1857,8 +1857,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01109,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1876,8 +1876,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028199999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1895,8 +1895,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00339,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1914,8 +1914,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006880000000000001,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1933,8 +1933,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00334,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -1952,8 +1952,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00433,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1971,8 +1971,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00614,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -1990,8 +1990,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00439,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2009,8 +2009,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0053,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2028,8 +2028,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00326,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2047,8 +2047,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025800000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2066,8 +2066,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2085,8 +2085,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00658,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2104,8 +2104,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00313,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -2123,8 +2123,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00443,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2142,8 +2142,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00396,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -2161,8 +2161,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004019999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2180,8 +2180,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00213,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2199,8 +2199,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00207,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2218,8 +2218,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029899999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2237,8 +2237,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0021,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2256,8 +2256,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00216,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2275,8 +2275,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00207,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2294,8 +2294,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00248,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2313,8 +2313,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00219,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2332,8 +2332,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00236,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2351,8 +2351,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025599999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2370,8 +2370,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00267,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2389,8 +2389,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2408,8 +2408,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0020499999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2427,8 +2427,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00247,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2446,8 +2446,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00277,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2465,8 +2465,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0018,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2484,8 +2484,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00272,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2503,8 +2503,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00223,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2522,8 +2522,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00248,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -2541,8 +2541,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027099999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2560,8 +2560,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028599999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2579,8 +2579,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00204,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2598,8 +2598,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0017399999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2617,8 +2617,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00266,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2636,8 +2636,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00241,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2655,8 +2655,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00269,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2674,8 +2674,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0024400000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2693,8 +2693,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00252,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2712,8 +2712,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00223,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2731,8 +2731,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00272,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2750,8 +2750,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0043,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2769,8 +2769,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2788,8 +2788,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00231,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2807,8 +2807,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00227,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2826,8 +2826,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0021999999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2845,8 +2845,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00245,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2864,8 +2864,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00453,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2883,8 +2883,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00304,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -2902,8 +2902,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00249,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2921,8 +2921,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029100000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2940,8 +2940,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00272,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -2959,8 +2959,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00336,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2978,8 +2978,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0037599999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -2997,8 +2997,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023499999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3016,8 +3016,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00267,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3035,8 +3035,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00296,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3054,8 +3054,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00269,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3073,8 +3073,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3092,8 +3092,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00264,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3111,8 +3111,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029899999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3130,8 +3130,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00217,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3149,8 +3149,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032499999999999994,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3168,8 +3168,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00281,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3187,8 +3187,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035399999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3206,8 +3206,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027400000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3225,8 +3225,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032899999999999995,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3244,8 +3244,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00307,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3263,8 +3263,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3282,8 +3282,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00251,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3301,8 +3301,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00287,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3320,8 +3320,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033900000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3339,8 +3339,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00314,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3358,8 +3358,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00377,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3377,8 +3377,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0034999999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3396,8 +3396,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00365,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3415,8 +3415,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035800000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3434,8 +3434,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0038900000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3453,8 +3453,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00317,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3472,8 +3472,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00581,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3491,8 +3491,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00459,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3510,8 +3510,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00506,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3529,8 +3529,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035900000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3548,8 +3548,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00449,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3567,8 +3567,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3586,8 +3586,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00394,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3605,8 +3605,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00351,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3624,8 +3624,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00366,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3643,8 +3643,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031399999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3662,8 +3662,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0067399999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3681,8 +3681,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033499999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3700,8 +3700,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00356,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3719,8 +3719,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00317,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3738,8 +3738,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00321,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3757,8 +3757,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0044599999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3776,8 +3776,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00318,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3795,8 +3795,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00283,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3814,8 +3814,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025800000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3833,8 +3833,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01066,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3852,8 +3852,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01134,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3871,8 +3871,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01527,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3890,8 +3890,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01759,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3909,8 +3909,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.010969999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3928,8 +3928,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00927,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -3947,8 +3947,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01405,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3966,8 +3966,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00378,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -3985,8 +3985,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00391,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4004,8 +4004,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00344,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4023,8 +4023,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0058200000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4042,8 +4042,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00617,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4061,8 +4061,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005719999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4080,8 +4080,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00536,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4099,8 +4099,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00587,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4118,8 +4118,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00572,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4137,8 +4137,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00496,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4156,8 +4156,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0061600000000000005,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4175,8 +4175,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00364,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4194,8 +4194,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00534,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4213,8 +4213,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00241,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4232,8 +4232,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00325,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4251,8 +4251,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00513,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4270,8 +4270,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00351,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4289,8 +4289,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00383,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4308,8 +4308,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030800000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4327,8 +4327,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00347,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4346,8 +4346,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00452,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4365,8 +4365,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00431,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4384,8 +4384,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00358,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4403,8 +4403,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00476,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4422,8 +4422,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00346,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4441,8 +4441,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00481,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4460,8 +4460,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00359,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4479,8 +4479,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00578,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4498,8 +4498,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00489,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4517,8 +4517,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00588,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4536,8 +4536,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00397,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4555,8 +4555,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00391,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4574,8 +4574,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033799999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4593,8 +4593,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00469,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4612,8 +4612,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00375,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4631,8 +4631,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00499,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4650,8 +4650,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00605,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4669,8 +4669,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004030000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4688,8 +4688,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0038799999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4707,8 +4707,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0044399999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4726,8 +4726,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032500000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4745,8 +4745,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005849999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4764,8 +4764,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.009590000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4783,8 +4783,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0061200000000000004,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4802,8 +4802,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00758,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4821,8 +4821,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006359999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4840,8 +4840,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0051400000000000005,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4859,8 +4859,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005889999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4878,8 +4878,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00273,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4897,8 +4897,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023899999999999998,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4916,8 +4916,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00283,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -4935,8 +4935,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4954,8 +4954,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027099999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4973,8 +4973,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -4992,8 +4992,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00226,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5011,8 +5011,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023699999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5030,8 +5030,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023299999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5049,8 +5049,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023499999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5068,8 +5068,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00233,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5087,8 +5087,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00241,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5106,8 +5106,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00248,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5125,8 +5125,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035399999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5144,8 +5144,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00367,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5163,8 +5163,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5182,8 +5182,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00327,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5201,8 +5201,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00281,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5220,8 +5220,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00392,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5239,8 +5239,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00342,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5258,8 +5258,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00436,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5277,8 +5277,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0040999999999999995,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5296,8 +5296,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00434,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5315,8 +5315,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00545,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5334,8 +5334,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00268,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5353,8 +5353,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0019,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5372,8 +5372,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00179,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5391,8 +5391,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00137,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5410,8 +5410,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00189,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5429,8 +5429,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00567,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5448,8 +5448,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00176,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5467,8 +5467,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00506,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5486,8 +5486,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0036000000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5505,8 +5505,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00499,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5524,8 +5524,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029200000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5543,8 +5543,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00602,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5562,8 +5562,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030700000000000002,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5581,8 +5581,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00122,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5600,8 +5600,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0011099999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5619,8 +5619,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00109,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5638,8 +5638,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00102,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5657,8 +5657,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0011,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5676,8 +5676,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00113,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5695,8 +5695,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00115,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5714,8 +5714,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00106,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5733,8 +5733,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0010400000000000001,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5752,8 +5752,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00114,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5771,8 +5771,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0013599999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5790,8 +5790,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00119,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -5809,8 +5809,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0016500000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -5828,8 +5828,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00202,
+    "accuracy": 0.7273667279411764,
     "for_optimality": false
   },
   {
@@ -5847,8 +5847,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0010999999999999998,
+    "accuracy": 0.38750000000000007,
     "for_optimality": false
   },
   {
@@ -5866,8 +5866,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0015999999999999999,
+    "accuracy": 0.38309037900874643,
     "for_optimality": false
   },
   {
@@ -5885,8 +5885,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00123,
+    "accuracy": 0.796,
     "for_optimality": false
   },
   {
@@ -5904,8 +5904,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00277,
+    "accuracy": 0.425,
     "for_optimality": false
   },
   {
@@ -5923,8 +5923,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032600000000000003,
+    "accuracy": 0.5837257980115121,
     "for_optimality": false
   },
   {
@@ -5942,8 +5942,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0012799999999999999,
+    "accuracy": 0.7454012263396429,
     "for_optimality": false
   },
   {
@@ -5961,8 +5961,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032099999999999997,
+    "accuracy": 0.12878787878787878,
     "for_optimality": false
   },
   {
@@ -5980,8 +5980,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0015699999999999998,
+    "accuracy": 0.4506172839506173,
     "for_optimality": false
   },
   {
@@ -5999,8 +5999,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0012499999999999998,
+    "accuracy": 0.89296875,
     "for_optimality": false
   },
   {
@@ -6018,8 +6018,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00163,
+    "accuracy": 0.5305272108843537,
     "for_optimality": false
   },
   {
@@ -6037,8 +6037,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0019500000000000001,
+    "accuracy": 0.6571428571428571,
     "for_optimality": false
   },
   {
@@ -6056,8 +6056,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00166,
+    "accuracy": 0.7349624060150376,
     "for_optimality": false
   },
   {
@@ -6075,8 +6075,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00228,
+    "accuracy": 0.8137696185033463,
     "for_optimality": false
   },
   {
@@ -6094,8 +6094,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00156,
+    "accuracy": 0.6894151303242213,
     "for_optimality": false
   },
   {
@@ -6113,8 +6113,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00131,
+    "accuracy": 0.25000000000000006,
     "for_optimality": false
   },
   {
@@ -6132,8 +6132,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0022700000000000003,
+    "accuracy": 0.8083278848249427,
     "for_optimality": false
   },
   {
@@ -6151,8 +6151,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0019100000000000002,
+    "accuracy": 0.5271317829457364,
     "for_optimality": false
   },
   {
@@ -6170,8 +6170,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0018900000000000002,
+    "accuracy": 0.40555555555555556,
     "for_optimality": false
   },
   {
@@ -6189,8 +6189,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00155,
+    "accuracy": 0.1944444444444444,
     "for_optimality": false
   },
   {
@@ -6208,8 +6208,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0008500000000000001,
+    "accuracy": 0.6666666666666667,
     "for_optimality": false
   },
   {
@@ -6227,8 +6227,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00108,
+    "accuracy": 0.6008230452674896,
     "for_optimality": false
   },
   {
@@ -6246,8 +6246,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0019000000000000002,
+    "accuracy": 0.7571560480147738,
     "for_optimality": false
   },
   {
@@ -6265,8 +6265,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00253,
+    "accuracy": 0.6388836077417392,
     "for_optimality": false
   },
   {
@@ -6284,8 +6284,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0015500000000000002,
+    "accuracy": 0.4321036106750393,
     "for_optimality": false
   },
   {
@@ -6303,8 +6303,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00133,
+    "accuracy": 0.6434567221687079,
     "for_optimality": false
   },
   {
@@ -6322,8 +6322,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00151,
+    "accuracy": 0.3037037037037037,
     "for_optimality": false
   },
   {
@@ -6341,8 +6341,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0010199999999999999,
+    "accuracy": 0.37777777777777777,
     "for_optimality": false
   },
   {
@@ -6360,8 +6360,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00104,
+    "accuracy": 0.77,
     "for_optimality": false
   },
   {
@@ -6379,8 +6379,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025299999999999997,
+    "accuracy": 0.7073705515263957,
     "for_optimality": false
   },
   {
@@ -6398,8 +6398,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00365,
+    "accuracy": 0.16911764705882354,
     "for_optimality": false
   },
   {
@@ -6417,8 +6417,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.07912999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -6436,8 +6436,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.019780000000000002,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -6455,8 +6455,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.017320000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6474,8 +6474,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00249,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6493,8 +6493,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00275,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6512,8 +6512,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00341,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6531,8 +6531,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00415,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -6550,8 +6550,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00688,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6569,8 +6569,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -6588,8 +6588,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00411,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -6607,8 +6607,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035900000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6626,8 +6626,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00452,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6645,8 +6645,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00226,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6664,8 +6664,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00311,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6683,8 +6683,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00248,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6702,8 +6702,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00249,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6721,8 +6721,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00248,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6740,8 +6740,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00248,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6759,8 +6759,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00302,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -6778,8 +6778,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0034599999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6797,8 +6797,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0026100000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6816,8 +6816,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030600000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6835,8 +6835,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031599999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6854,8 +6854,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00262,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -6873,8 +6873,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00372,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6892,8 +6892,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00372,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6911,8 +6911,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00344,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6930,8 +6930,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0024999999999999996,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -6949,8 +6949,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031999999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6968,8 +6968,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032199999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -6987,8 +6987,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0036099999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7006,8 +7006,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028599999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7025,8 +7025,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7044,8 +7044,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031799999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7063,8 +7063,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00399,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7082,8 +7082,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7101,8 +7101,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029000000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7120,8 +7120,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00304,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -7139,8 +7139,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030499999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7158,8 +7158,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00258,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7177,8 +7177,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027099999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7196,8 +7196,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00324,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7215,8 +7215,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0045000000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7234,8 +7234,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00484,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7253,8 +7253,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.07168,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -7272,8 +7272,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.011080000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7291,8 +7291,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0047799999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7310,8 +7310,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00281,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7329,8 +7329,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00294,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7348,8 +7348,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00473,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7367,8 +7367,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00526,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7386,8 +7386,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00339,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7405,8 +7405,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00413,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -7424,8 +7424,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00324,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7443,8 +7443,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00475,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7462,8 +7462,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00342,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7481,8 +7481,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00431,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7500,8 +7500,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00564,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7519,8 +7519,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00502,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -7538,8 +7538,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00495,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7557,8 +7557,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00356,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7576,8 +7576,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033799999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7595,8 +7595,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00302,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7614,8 +7614,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00882,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7633,8 +7633,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004749999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7652,8 +7652,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00464,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7671,8 +7671,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00587,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7690,8 +7690,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0056,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7709,8 +7709,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00525,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7728,8 +7728,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00275,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7747,8 +7747,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00384,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7766,8 +7766,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00412,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7785,8 +7785,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00456,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7804,8 +7804,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00507,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7823,8 +7823,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00604,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -7842,8 +7842,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0059299999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7861,8 +7861,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00345,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7880,8 +7880,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00523,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7899,8 +7899,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0059299999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7918,8 +7918,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00477,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -7937,8 +7937,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0074800000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -7956,8 +7956,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01694,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -7975,8 +7975,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00808,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -7994,8 +7994,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8013,8 +8013,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00629,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8032,8 +8032,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00484,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8051,8 +8051,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00359,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8070,8 +8070,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00313,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8089,8 +8089,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00413,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8108,8 +8108,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00259,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8127,8 +8127,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0039299999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8146,8 +8146,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0051199999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8165,8 +8165,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00385,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8184,8 +8184,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0049700000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8203,8 +8203,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035900000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8222,8 +8222,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0024400000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8241,8 +8241,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035199999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8260,8 +8260,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00513,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8279,8 +8279,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0034799999999999996,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8298,8 +8298,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00373,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8317,8 +8317,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0024000000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8336,8 +8336,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00367,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8355,8 +8355,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.003940000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8374,8 +8374,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.010039999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8393,8 +8393,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031999999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8412,8 +8412,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00578,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8431,8 +8431,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00452,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8450,8 +8450,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.007379999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8469,8 +8469,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00344,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8488,8 +8488,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005729999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8507,8 +8507,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00231,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8526,8 +8526,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00264,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8545,8 +8545,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00281,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8564,8 +8564,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00253,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8583,8 +8583,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00265,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8602,8 +8602,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00262,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8621,8 +8621,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00255,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8640,8 +8640,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00252,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8659,8 +8659,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00162,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8678,8 +8678,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030800000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8697,8 +8697,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00191,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8716,8 +8716,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00341,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8735,8 +8735,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00289,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8754,8 +8754,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00216,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8773,8 +8773,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0022199999999999998,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8792,8 +8792,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00248,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8811,8 +8811,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0036300000000000004,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8830,8 +8830,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031399999999999996,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8849,8 +8849,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00349,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8868,8 +8868,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00231,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8887,8 +8887,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030399999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8906,8 +8906,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00356,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -8925,8 +8925,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00298,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8944,8 +8944,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00184,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8963,8 +8963,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00257,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -8982,8 +8982,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0036999999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9001,8 +9001,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00764,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9020,8 +9020,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00377,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9039,8 +9039,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01218,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9058,8 +9058,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01558,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9077,8 +9077,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01023,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9096,8 +9096,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00428,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9115,8 +9115,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004110000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9134,8 +9134,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.013680000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9153,8 +9153,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00899,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9172,8 +9172,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00364,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9191,8 +9191,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005980000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9210,8 +9210,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004569999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9229,8 +9229,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005979999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9248,8 +9248,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00937,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9267,8 +9267,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0075899999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9286,8 +9286,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00591,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9305,8 +9305,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006359999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9324,8 +9324,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00852,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9343,8 +9343,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.02111,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9362,8 +9362,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.008539999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9381,8 +9381,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.007089999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9400,8 +9400,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00701,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9419,8 +9419,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028799999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9438,8 +9438,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00288,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9457,8 +9457,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00327,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9476,8 +9476,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00387,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9495,8 +9495,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00241,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9514,8 +9514,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00348,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9533,8 +9533,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00331,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9552,8 +9552,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00391,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9571,8 +9571,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00479,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9590,8 +9590,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00315,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9609,8 +9609,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00428,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9628,8 +9628,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00786,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9647,8 +9647,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004189999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9666,8 +9666,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00636,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9685,8 +9685,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00537,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9704,8 +9704,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00375,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9723,8 +9723,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030499999999999998,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9742,8 +9742,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004030000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9761,8 +9761,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00438,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9780,8 +9780,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00519,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9799,8 +9799,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00596,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9818,8 +9818,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00272,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9837,8 +9837,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00253,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9856,8 +9856,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00258,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9875,8 +9875,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00281,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9894,8 +9894,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00283,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9913,8 +9913,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025599999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9932,8 +9932,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00227,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -9951,8 +9951,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027400000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9970,8 +9970,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00277,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -9989,8 +9989,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00424,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10008,8 +10008,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00193,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10027,8 +10027,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00309,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10046,8 +10046,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00307,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10065,8 +10065,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -10084,8 +10084,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00258,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -10103,8 +10103,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027400000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10122,8 +10122,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0026,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10141,8 +10141,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00332,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10160,8 +10160,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00295,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10179,8 +10179,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00286,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10198,8 +10198,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00324,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10217,8 +10217,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00307,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10236,8 +10236,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028200000000000005,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -10255,8 +10255,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029300000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10274,8 +10274,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033900000000000002,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -10293,8 +10293,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00327,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10312,8 +10312,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00387,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10331,8 +10331,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029500000000000004,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10350,8 +10350,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00364,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -10369,8 +10369,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033699999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10388,8 +10388,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030399999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10407,8 +10407,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00292,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -10426,8 +10426,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031599999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10445,8 +10445,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00385,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10464,8 +10464,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0029300000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -10483,8 +10483,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035399999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10502,8 +10502,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00295,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10521,8 +10521,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00219,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10540,8 +10540,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00208,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10559,8 +10559,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00282,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10578,8 +10578,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0024,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10597,8 +10597,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00186,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10616,8 +10616,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10635,8 +10635,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10654,8 +10654,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0050799999999999994,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10673,8 +10673,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0051400000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10692,8 +10692,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00511,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10711,8 +10711,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006670000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10730,8 +10730,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00498,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10749,8 +10749,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0056500000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10768,8 +10768,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00401,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10787,8 +10787,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0054800000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10806,8 +10806,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00511,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10825,8 +10825,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004189999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10844,8 +10844,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0087,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10863,8 +10863,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00588,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10882,8 +10882,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005260000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10901,8 +10901,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00403,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10920,8 +10920,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00575,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10939,8 +10939,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0059299999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10958,8 +10958,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005390000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10977,8 +10977,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00625,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -10996,8 +10996,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00605,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11015,8 +11015,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00441,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11034,8 +11034,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0059299999999999995,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11053,8 +11053,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00512,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11072,8 +11072,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0042699999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11091,8 +11091,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00509,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11110,8 +11110,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00526,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11129,8 +11129,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0049499999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11148,8 +11148,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00535,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11167,8 +11167,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00637,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11186,8 +11186,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004999999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11205,8 +11205,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006409999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11224,8 +11224,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00514,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11243,8 +11243,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00596,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11262,8 +11262,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00596,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11281,8 +11281,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00635,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11300,8 +11300,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00499,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11319,8 +11319,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0045000000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11338,8 +11338,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006869999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11357,8 +11357,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.004569999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11376,8 +11376,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00631,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11395,8 +11395,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00502,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11414,8 +11414,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006370000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11433,8 +11433,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00494,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11452,8 +11452,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0038400000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11471,8 +11471,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00577,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11490,8 +11490,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00526,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11509,8 +11509,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0055899999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11528,8 +11528,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.011640000000000001,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11547,8 +11547,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01548,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11566,8 +11566,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.033,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11585,8 +11585,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.010660000000000001,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11604,8 +11604,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01006,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11623,8 +11623,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01078,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11642,8 +11642,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01268,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11661,8 +11661,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0039299999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11680,8 +11680,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.021750000000000002,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11699,8 +11699,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.010509999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11718,8 +11718,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.011349999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11737,8 +11737,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01201,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11756,8 +11756,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.02322,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11775,8 +11775,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0024200000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11794,8 +11794,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00349,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11813,8 +11813,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00307,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11832,8 +11832,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00447,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11851,8 +11851,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00285,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11870,8 +11870,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030099999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11889,8 +11889,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00287,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11908,8 +11908,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00285,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11927,8 +11927,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00391,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11946,8 +11946,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -11965,8 +11965,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00562,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -11984,8 +11984,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027400000000000002,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12003,8 +12003,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0039900000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12022,8 +12022,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00918,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12041,8 +12041,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00324,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12060,8 +12060,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028000000000000004,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12079,8 +12079,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00259,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12098,8 +12098,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00317,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12117,8 +12117,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00287,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12136,8 +12136,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00404,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12155,8 +12155,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00233,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12174,8 +12174,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0019199999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12193,8 +12193,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030099999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12212,8 +12212,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00296,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12231,8 +12231,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00255,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12250,8 +12250,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00236,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12269,8 +12269,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00185,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12288,8 +12288,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00266,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12307,8 +12307,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030099999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12326,8 +12326,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00313,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12345,8 +12345,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0024000000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12364,8 +12364,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00254,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12383,8 +12383,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00313,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12402,8 +12402,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028599999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12421,8 +12421,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00221,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12440,8 +12440,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0021999999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12459,8 +12459,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00265,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12478,8 +12478,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00214,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12497,8 +12497,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00315,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12516,8 +12516,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12535,8 +12535,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00231,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12554,8 +12554,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0022400000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12573,8 +12573,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00313,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12592,8 +12592,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00263,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12611,8 +12611,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00321,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12630,8 +12630,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00387,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12649,8 +12649,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12668,8 +12668,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12687,8 +12687,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.011850000000000001,
+    "accuracy": 0.7000000000000001,
     "for_optimality": false
   },
   {
@@ -12706,8 +12706,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01022,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12725,8 +12725,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00955,
+    "accuracy": 0.875,
     "for_optimality": false
   },
   {
@@ -12744,8 +12744,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00613,
+    "accuracy": 0.11742424242424243,
     "for_optimality": false
   },
   {
@@ -12763,8 +12763,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01066,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12782,8 +12782,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01038,
+    "accuracy": 0.875,
     "for_optimality": false
   },
   {
@@ -12801,8 +12801,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00839,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12820,8 +12820,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01075,
+    "accuracy": 0.28571428571428575,
     "for_optimality": false
   },
   {
@@ -12839,8 +12839,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00893,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12858,8 +12858,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00794,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -12877,8 +12877,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0066099999999999996,
+    "accuracy": 0.7000000000000001,
     "for_optimality": false
   },
   {
@@ -12896,8 +12896,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0052699999999999995,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -12915,8 +12915,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00533,
+    "accuracy": 0.875,
     "for_optimality": false
   },
   {
@@ -12934,8 +12934,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00736,
+    "accuracy": 0.47990105132962274,
     "for_optimality": false
   },
   {
@@ -12953,8 +12953,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00562,
+    "accuracy": 0.3684210526315789,
     "for_optimality": false
   },
   {
@@ -12972,8 +12972,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.009510000000000001,
+    "accuracy": 0.356728752929567,
     "for_optimality": false
   },
   {
@@ -12991,8 +12991,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01119,
+    "accuracy": 0.22014051522248246,
     "for_optimality": false
   },
   {
@@ -13010,8 +13010,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.02426,
+    "accuracy": 0.26515151515151514,
     "for_optimality": false
   },
   {
@@ -13029,8 +13029,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00534,
+    "accuracy": 0.7,
     "for_optimality": false
   },
   {
@@ -13048,8 +13048,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00923,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13067,8 +13067,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01189,
+    "accuracy": 0.19375,
     "for_optimality": false
   },
   {
@@ -13086,8 +13086,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01338,
+    "accuracy": 0.28,
     "for_optimality": false
   },
   {
@@ -13105,8 +13105,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.025349999999999998,
+    "accuracy": 0.98,
     "for_optimality": false
   },
   {
@@ -13124,8 +13124,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01359,
+    "accuracy": 0.125,
     "for_optimality": false
   },
   {
@@ -13143,8 +13143,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00976,
+    "accuracy": 0.23058823529411765,
     "for_optimality": false
   },
   {
@@ -13162,8 +13162,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01121,
+    "accuracy": 0.1619047619047619,
     "for_optimality": false
   },
   {
@@ -13181,8 +13181,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00771,
+    "accuracy": 0.17426470588235293,
     "for_optimality": false
   },
   {
@@ -13200,8 +13200,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005889999999999999,
+    "accuracy": 0.06862745098039216,
     "for_optimality": false
   },
   {
@@ -13219,8 +13219,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00629,
+    "accuracy": 0.15740740740740738,
     "for_optimality": false
   },
   {
@@ -13238,8 +13238,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.008539999999999999,
+    "accuracy": 0.05384615384615384,
     "for_optimality": false
   },
   {
@@ -13257,8 +13257,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00673,
+    "accuracy": 0.875,
     "for_optimality": false
   },
   {
@@ -13276,8 +13276,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.008199999999999999,
+    "accuracy": 0.13783403656821377,
     "for_optimality": false
   },
   {
@@ -13295,8 +13295,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00961,
+    "accuracy": 0.12280701754385967,
     "for_optimality": false
   },
   {
@@ -13314,8 +13314,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00657,
+    "accuracy": 0.1717171717171717,
     "for_optimality": false
   },
   {
@@ -13333,8 +13333,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00768,
+    "accuracy": 0.11764705882352942,
     "for_optimality": false
   },
   {
@@ -13352,8 +13352,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0094,
+    "accuracy": 0.12878787878787878,
     "for_optimality": false
   },
   {
@@ -13371,8 +13371,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01208,
+    "accuracy": 0.17283950617283947,
     "for_optimality": false
   },
   {
@@ -13390,8 +13390,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.009899999999999999,
+    "accuracy": 0.26360544217687076,
     "for_optimality": false
   },
   {
@@ -13409,8 +13409,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00802,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13428,8 +13428,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00226,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13447,8 +13447,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00251,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13466,8 +13466,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00252,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13485,8 +13485,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00233,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13504,8 +13504,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00245,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13523,8 +13523,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0022,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13542,8 +13542,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0020700000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13561,8 +13561,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00262,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13580,8 +13580,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0022500000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13599,8 +13599,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00289,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13618,8 +13618,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00253,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13637,8 +13637,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0022500000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13656,8 +13656,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030399999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13675,8 +13675,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032300000000000002,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13694,8 +13694,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00325,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13713,8 +13713,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00312,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13732,8 +13732,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0026,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13751,8 +13751,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028799999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13770,8 +13770,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00255,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13789,8 +13789,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0031399999999999996,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13808,8 +13808,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00348,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13827,8 +13827,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13846,8 +13846,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00252,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13865,8 +13865,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027099999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13884,8 +13884,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0026,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13903,8 +13903,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027400000000000002,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13922,8 +13922,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00262,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13941,8 +13941,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00353,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13960,8 +13960,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0035000000000000005,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -13979,8 +13979,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00307,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -13998,8 +13998,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00244,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14017,8 +14017,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0015699999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14036,8 +14036,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00167,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14055,8 +14055,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0014399999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14074,8 +14074,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00368,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14093,8 +14093,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00568,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14112,8 +14112,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00326,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14131,8 +14131,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0033900000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14150,8 +14150,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14169,8 +14169,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00446,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14188,8 +14188,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005529999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14207,8 +14207,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00391,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14226,8 +14226,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0069099999999999995,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14245,8 +14245,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0063999999999999994,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14264,8 +14264,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00516,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14283,8 +14283,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00449,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14302,8 +14302,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00436,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14321,8 +14321,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005769999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14340,8 +14340,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00818,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14359,8 +14359,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00684,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14378,8 +14378,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00564,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14397,8 +14397,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.007909999999999999,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14416,8 +14416,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00596,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14435,8 +14435,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0066099999999999996,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14454,8 +14454,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00611,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14473,8 +14473,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00622,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14492,8 +14492,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0055,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14511,8 +14511,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00794,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14530,8 +14530,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.005940000000000001,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14549,8 +14549,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00543,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14568,8 +14568,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00434,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14587,8 +14587,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00868,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14606,8 +14606,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00917,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14625,8 +14625,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00339,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14644,8 +14644,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006500000000000001,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14663,8 +14663,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.01033,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -14682,8 +14682,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.006529999999999999,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14701,8 +14701,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023499999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14720,8 +14720,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0020499999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14739,8 +14739,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00179,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14758,8 +14758,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00201,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14777,8 +14777,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0022500000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14796,8 +14796,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00275,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14815,8 +14815,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0019700000000000004,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14834,8 +14834,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0034200000000000003,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14853,8 +14853,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00247,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14872,8 +14872,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00173,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14891,8 +14891,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0019199999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14910,8 +14910,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00243,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14929,8 +14929,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0030099999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14948,8 +14948,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0023699999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14967,8 +14967,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0020499999999999997,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -14986,8 +14986,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0022199999999999998,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15005,8 +15005,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00202,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15024,8 +15024,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0027400000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15043,8 +15043,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032300000000000002,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15062,8 +15062,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00284,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15081,8 +15081,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00262,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15100,8 +15100,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00253,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15119,8 +15119,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00236,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15138,8 +15138,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0032300000000000002,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -15157,8 +15157,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00287,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15176,8 +15176,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00244,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -15195,8 +15195,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00287,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -15214,8 +15214,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00268,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15233,8 +15233,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00245,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -15252,8 +15252,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00231,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15271,8 +15271,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00225,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15290,8 +15290,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0025900000000000003,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -15309,8 +15309,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028599999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -15328,8 +15328,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.00288,
+    "accuracy": 1.0,
     "for_optimality": false
   },
   {
@@ -15347,8 +15347,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0021999999999999997,
+    "accuracy": 0.0,
     "for_optimality": false
   },
   {
@@ -15366,8 +15366,8 @@
       "provider": "openai",
       "error": null
     },
-    "cost": null,
-    "accuracy": null,
+    "cost": 0.0028,
+    "accuracy": 1.0,
     "for_optimality": false
   }
 ]
