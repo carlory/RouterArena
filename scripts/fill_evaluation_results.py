@@ -294,17 +294,26 @@ def main():
     cached_results_dir = os.path.join(project_root, 'cached_results')
     files_to_process = [
         os.path.join(cached_results_dir, 'deepseek-chat.jsonl'),
-        os.path.join(cached_results_dir, 'deepseek-reasoner.jsonl')
+        os.path.join(cached_results_dir, 'deepseek-reasoner.jsonl'),
+        os.path.join(cached_results_dir, 'gpt-4.1-mini.jsonl'),
+        os.path.join(cached_results_dir, 'gpt-4o.jsonl'),
+        os.path.join(cached_results_dir, 'gpt-4-turbo.jsonl')
     ]
 
-    # Check files exist
+    # Check files exist and collect existing files
+    existing_files = []
     for file_path in files_to_process:
-        if not os.path.exists(file_path):
-            print(f"Error: File not found: {file_path}")
-            sys.exit(1)
+        if os.path.exists(file_path):
+            existing_files.append(file_path)
+        else:
+            print(f"Warning: File not found (skipping): {file_path}")
 
-    # Process each file
-    for file_path in files_to_process:
+    if not existing_files:
+        print("Error: No files found to process")
+        sys.exit(1)
+
+    # Process each existing file
+    for file_path in existing_files:
         fill_evaluation_results(file_path)
 
     print("All files processed successfully!")
