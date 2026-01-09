@@ -34,13 +34,13 @@ class VLLMSR(BaseRouter):
         "computer science": "gemini-2.0-flash-001",
         "economics": "gemini-2.0-flash-001",
         "engineering": "deepseek-chat",
-        "health": "gpt-4o-mini",
+        "health": "gpt-4-turbo",
         "history": "gpt-4o-mini",
         "law": "gemini-2.0-flash-001",
         "math": "gemini-2.0-flash-001",
         "other": "gemini-2.0-flash-001",
         "philosophy": "gemini-2.0-flash-001",
-        "physics": "gemini-2.0-flash-001",
+        "physics": "gpt-4-turbo",
         "psychology": "gemini-2.0-flash-001",
     }
 

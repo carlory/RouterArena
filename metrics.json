@@ -1,8 +1,15 @@
 {
-  "arena_score": 0.6514383446495463,
-  "accuracy": 0.714997407364388,
-  "total_cost": 4.006100000000003,
-  "avg_cost_per_query": 0.0049519159456118695,
-  "avg_cost_per_1000": 4.951915945611869,
-  "num_queries": 809
+  "arena_score": 0.6913439561719419,
+  "accuracy": 0.7010181681043284,
+  "total_cost": 0.23959037000000005,
+  "avg_cost_per_query": 0.0002961562051915946,
+  "avg_cost_per_1000": 0.29615620519159463,
+  "num_queries": 809,
+  "optimality": {
+    "opt_sel": 0.864406779661017,
+    "opt_cost": 0.1775743412587403,
+    "opt_acc": 1.0,
+    "queries_with_optimal_data": 531,
+    "num_sub10_queries": 809
+  }
 }

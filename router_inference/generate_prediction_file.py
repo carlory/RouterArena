@@ -233,7 +233,7 @@ def main():
     print("\n[1] Initializing router...")
 
     ## You should replace ExampleRouter with your own router implementation.
-    router = ExampleRouter(args.router_name)
+    router = VLLMSR(args.router_name)
 
     print(f"✓ Router initialized: {router.router_name}")
     print(f"  Available models: {', '.join(router.models)}")
